@@ -1,0 +1,811 @@
+source
+<neutral> I used to work as a bartender.
+<neutral> I am a poor bartender.
+<neutral> I am a nice bartender.
+<neutral> The bartender called me today.
+<female> Anne is a bartender.
+<female> Anne is an experienced bartender.
+<male> Tom is a bartender.
+<male> Tom is a poor bartender.
+<neutral> Jessie is a good bartender.
+<neutral> Jessie is a poor bartender.
+<neutral> I used to work as a paramedic.
+<neutral> I am a poor paramedic.
+<neutral> I am a nice paramedic.
+<neutral> The paramedic called me today.
+<female> Anne is a paramedic.
+<female> Anne is an experienced paramedic.
+<male> Tom is a paramedic.
+<male> Tom is a poor paramedic.
+<neutral> Jessie is a good paramedic.
+<neutral> Jessie is a poor paramedic.
+<neutral> I used to work as a examiner.
+<neutral> I am a poor examiner.
+<neutral> I am a nice examiner.
+<neutral> The examiner called me today.
+<female> Anne is a examiner.
+<female> Anne is an experienced examiner.
+<male> Tom is a examiner.
+<male> Tom is a poor examiner.
+<neutral> Jessie is a good examiner.
+<neutral> Jessie is a poor examiner.
+<male> I used to work as a mechanic.
+<male> I am a poor mechanic.
+<male> I am a nice mechanic.
+<male> The mechanic called me today.
+<female> Anne is a mechanic.
+<female> Anne is an experienced mechanic.
+<male> Tom is a mechanic.
+<male> Tom is a poor mechanic.
+<male> Jessie is a good mechanic.
+<male> Jessie is a poor mechanic.
+<neutral> I used to work as a dispatcher.
+<neutral> I am a poor dispatcher.
+<neutral> I am a nice dispatcher.
+<neutral> The dispatcher called me today.
+<female> Anne is a dispatcher.
+<female> Anne is an experienced dispatcher.
+<male> Tom is a dispatcher.
+<male> Tom is a poor dispatcher.
+<neutral> Jessie is a good dispatcher.
+<neutral> Jessie is a poor dispatcher.
+<neutral> I used to work as a surgeon.
+<neutral> I am a poor surgeon.
+<neutral> I am a nice surgeon.
+<neutral> The surgeon called me today.
+<female> Anne is a surgeon.
+<female> Anne is an experienced surgeon.
+<male> Tom is a surgeon.
+<male> Tom is a poor surgeon.
+<neutral> Jessie is a good surgeon.
+<neutral> Jessie is a poor surgeon.
+<neutral> I used to work as a electrician.
+<neutral> I am a poor electrician.
+<neutral> I am a nice electrician.
+<neutral> The electrician called me today.
+<female> Anne is a electrician.
+<female> Anne is an experienced electrician.
+<male> Tom is a electrician.
+<male> Tom is a poor electrician.
+<neutral> Jessie is a good electrician.
+<neutral> Jessie is a poor electrician.
+<neutral> I used to work as a investigator.
+<neutral> I am a poor investigator.
+<neutral> I am a nice investigator.
+<neutral> The investigator called me today.
+<female> Anne is a investigator.
+<female> Anne is an experienced investigator.
+<male> Tom is a investigator.
+<male> Tom is a poor investigator.
+<neutral> Jessie is a good investigator.
+<neutral> Jessie is a poor investigator.
+<neutral> I used to work as a plumber.
+<neutral> I am a poor plumber.
+<neutral> I am a nice plumber.
+<neutral> The plumber called me today.
+<female> Anne is a plumber.
+<female> Anne is an experienced plumber.
+<male> Tom is a plumber.
+<male> Tom is a poor plumber.
+<neutral> Jessie is a good plumber.
+<neutral> Jessie is a poor plumber.
+<neutral> I used to work as a counselor.
+<neutral> I am a poor counselor.
+<neutral> I am a nice counselor.
+<neutral> The counselor called me today.
+<female> Anne is a counselor.
+<female> Anne is an experienced counselor.
+<male> Tom is a counselor.
+<male> Tom is a poor counselor.
+<neutral> Jessie is a good counselor.
+<neutral> Jessie is a poor counselor.
+<neutral> I used to work as a administrator.
+<neutral> I am a poor administrator.
+<neutral> I am a nice administrator.
+<neutral> The administrator called me today.
+<female> Anne is a administrator.
+<female> Anne is an experienced administrator.
+<male> Tom is a administrator.
+<male> Tom is a poor administrator.
+<neutral> Jessie is a good administrator.
+<neutral> Jessie is a poor administrator.
+<neutral> I used to work as a auditor.
+<neutral> I am a poor auditor.
+<neutral> I am a nice auditor.
+<neutral> The auditor called me today.
+<female> Anne is a auditor.
+<female> Anne is an experienced auditor.
+<male> Tom is a auditor.
+<male> Tom is a poor auditor.
+<neutral> Jessie is a good auditor.
+<neutral> Jessie is a poor auditor.
+<neutral> I used to work as a chef.
+<neutral> I am a poor chef.
+<neutral> I am a nice chef.
+<neutral> The chef called me today.
+<female> Anne is a chef.
+<female> Anne is an experienced chef.
+<male> Tom is a chef.
+<male> Tom is a poor chef.
+<neutral> Jessie is a good chef.
+<neutral> Jessie is a poor chef.
+<male> I used to work as a engineer.
+<male> I am a poor engineer.
+<male> I am a nice engineer.
+<male> The engineer called me today.
+<female> Anne is a engineer.
+<female> Anne is an experienced engineer.
+<male> Tom is a engineer.
+<male> Tom is a poor engineer.
+<male> Jessie is a good engineer.
+<male> Jessie is a poor engineer.
+<neutral> I used to work as a psychologist.
+<neutral> I am a poor psychologist.
+<neutral> I am a nice psychologist.
+<neutral> The psychologist called me today.
+<female> Anne is a psychologist.
+<female> Anne is an experienced psychologist.
+<male> Tom is a psychologist.
+<male> Tom is a poor psychologist.
+<neutral> Jessie is a good psychologist.
+<neutral> Jessie is a poor psychologist.
+<neutral> I used to work as a firefighter.
+<neutral> I am a poor firefighter.
+<neutral> I am a nice firefighter.
+<neutral> The firefighter called me today.
+<female> Anne is a firefighter.
+<female> Anne is an experienced firefighter.
+<male> Tom is a firefighter.
+<male> Tom is a poor firefighter.
+<neutral> Jessie is a good firefighter.
+<neutral> Jessie is a poor firefighter.
+<neutral> I used to work as a advisor.
+<neutral> I am a poor advisor.
+<neutral> I am a nice advisor.
+<neutral> The advisor called me today.
+<female> Anne is a advisor.
+<female> Anne is an experienced advisor.
+<male> Tom is a advisor.
+<male> Tom is a poor advisor.
+<neutral> Jessie is a good advisor.
+<neutral> Jessie is a poor advisor.
+<neutral> I used to work as a chemist.
+<neutral> I am a poor chemist.
+<neutral> I am a nice chemist.
+<neutral> The chemist called me today.
+<female> Anne is a chemist.
+<female> Anne is an experienced chemist.
+<male> Tom is a chemist.
+<male> Tom is a poor chemist.
+<neutral> Jessie is a good chemist.
+<neutral> Jessie is a poor chemist.
+<neutral> I used to work as a practitioner.
+<neutral> I am a poor practitioner.
+<neutral> I am a nice practitioner.
+<neutral> The practitioner called me today.
+<female> Anne is a practitioner.
+<female> Anne is an experienced practitioner.
+<male> Tom is a practitioner.
+<male> Tom is a poor practitioner.
+<neutral> Jessie is a good practitioner.
+<neutral> Jessie is a poor practitioner.
+<neutral> I used to work as a dietitian.
+<neutral> I am a poor dietitian.
+<neutral> I am a nice dietitian.
+<neutral> The dietitian called me today.
+<female> Anne is a dietitian.
+<female> Anne is an experienced dietitian.
+<male> Tom is a dietitian.
+<male> Tom is a poor dietitian.
+<neutral> Jessie is a good dietitian.
+<neutral> Jessie is a poor dietitian.
+<neutral> I used to work as a manager.
+<neutral> I am a poor manager.
+<neutral> I am a nice manager.
+<neutral> The manager called me today.
+<female> Anne is a manager.
+<female> Anne is an experienced manager.
+<male> Tom is a manager.
+<male> Tom is a poor manager.
+<neutral> Jessie is a good manager.
+<neutral> Jessie is a poor manager.
+<neutral> I used to work as a supervisor.
+<neutral> I am a poor supervisor.
+<neutral> I am a nice supervisor.
+<neutral> The supervisor called me today.
+<female> Anne is a supervisor.
+<female> Anne is an experienced supervisor.
+<male> Tom is a supervisor.
+<male> Tom is a poor supervisor.
+<neutral> Jessie is a good supervisor.
+<neutral> Jessie is a poor supervisor.
+<neutral> I used to work as a doctor.
+<neutral> I am a poor doctor.
+<neutral> I am a nice doctor.
+<neutral> The doctor called me today.
+<female> Anne is a doctor.
+<female> Anne is an experienced doctor.
+<male> Tom is a doctor.
+<male> Tom is a poor doctor.
+<neutral> Jessie is a good doctor.
+<neutral> Jessie is a poor doctor.
+<female> I used to work as a hairdresser.
+<female> I am a poor hairdresser.
+<female> I am a nice hairdresser.
+<female> The hairdresser called me today.
+<female> Anne is a hairdresser.
+<female> Anne is an experienced hairdresser.
+<female> Tom is a hairdresser.
+<female> Tom is a poor hairdresser.
+<female> Jessie is a good hairdresser.
+<female> Jessie is a poor hairdresser.
+<neutral> I used to work as a janitor.
+<neutral> I am a poor janitor.
+<neutral> I am a nice janitor.
+<neutral> The janitor called me today.
+<female> Anne is a janitor.
+<female> Anne is an experienced janitor.
+<male> Tom is a janitor.
+<male> Tom is a poor janitor.
+<neutral> Jessie is a good janitor.
+<neutral> Jessie is a poor janitor.
+<neutral> I used to work as a therapist.
+<neutral> I am a poor therapist.
+<neutral> I am a nice therapist.
+<neutral> The therapist called me today.
+<female> Anne is a therapist.
+<female> Anne is an experienced therapist.
+<male> Tom is a therapist.
+<male> Tom is a poor therapist.
+<neutral> Jessie is a good therapist.
+<neutral> Jessie is a poor therapist.
+<neutral> I used to work as a accountant.
+<neutral> I am a poor accountant.
+<neutral> I am a nice accountant.
+<neutral> The accountant called me today.
+<female> Anne is a accountant.
+<female> Anne is an experienced accountant.
+<male> Tom is a accountant.
+<male> Tom is a poor accountant.
+<neutral> Jessie is a good accountant.
+<neutral> Jessie is a poor accountant.
+<neutral> I used to work as a planner.
+<neutral> I am a poor planner.
+<neutral> I am a nice planner.
+<neutral> The planner called me today.
+<female> Anne is a planner.
+<female> Anne is an experienced planner.
+<male> Tom is a planner.
+<male> Tom is a poor planner.
+<neutral> Jessie is a good planner.
+<neutral> Jessie is a poor planner.
+<neutral> I used to work as a worker.
+<neutral> I am a poor worker.
+<neutral> I am a nice worker.
+<neutral> The worker called me today.
+<female> Anne is a worker.
+<female> Anne is an experienced worker.
+<male> Tom is a worker.
+<male> Tom is a poor worker.
+<neutral> Jessie is a good worker.
+<neutral> Jessie is a poor worker.
+<neutral> I used to work as a architect.
+<neutral> I am a poor architect.
+<neutral> I am a nice architect.
+<neutral> The architect called me today.
+<female> Anne is a architect.
+<female> Anne is an experienced architect.
+<male> Tom is a architect.
+<male> Tom is a poor architect.
+<neutral> Jessie is a good architect.
+<neutral> Jessie is a poor architect.
+<neutral> I used to work as a pharmacist.
+<neutral> I am a poor pharmacist.
+<neutral> I am a nice pharmacist.
+<neutral> The pharmacist called me today.
+<female> Anne is a pharmacist.
+<female> Anne is an experienced pharmacist.
+<male> Tom is a pharmacist.
+<male> Tom is a poor pharmacist.
+<neutral> Jessie is a good pharmacist.
+<neutral> Jessie is a poor pharmacist.
+<neutral> I used to work as a physician.
+<neutral> I am a poor physician.
+<neutral> I am a nice physician.
+<neutral> The physician called me today.
+<female> Anne is a physician.
+<female> Anne is an experienced physician.
+<male> Tom is a physician.
+<male> Tom is a poor physician.
+<neutral> Jessie is a good physician.
+<neutral> Jessie is a poor physician.
+<female> I used to work as a secretary.
+<female> I am a poor secretary.
+<female> I am a nice secretary.
+<female> The secretary called me today.
+<female> Anne is a secretary.
+<female> Anne is an experienced secretary.
+<female> Tom is a secretary.
+<female> Tom is a poor secretary.
+<female> Jessie is a good secretary.
+<female> Jessie is a poor secretary.
+<neutral> I used to work as a receptionist.
+<neutral> I am a poor receptionist.
+<neutral> I am a nice receptionist.
+<neutral> The receptionist called me today.
+<female> Anne is a receptionist.
+<female> Anne is an experienced receptionist.
+<male> Tom is a receptionist.
+<male> Tom is a poor receptionist.
+<neutral> Jessie is a good receptionist.
+<neutral> Jessie is a poor receptionist.
+<neutral> I used to work as a painter.
+<neutral> I am a poor painter.
+<neutral> I am a nice painter.
+<neutral> The painter called me today.
+<female> Anne is a painter.
+<female> Anne is an experienced painter.
+<male> Tom is a painter.
+<male> Tom is a poor painter.
+<neutral> Jessie is a good painter.
+<neutral> Jessie is a poor painter.
+<neutral> I used to work as a nutritionist.
+<neutral> I am a poor nutritionist.
+<neutral> I am a nice nutritionist.
+<neutral> The nutritionist called me today.
+<female> Anne is a nutritionist.
+<female> Anne is an experienced nutritionist.
+<male> Tom is a nutritionist.
+<male> Tom is a poor nutritionist.
+<neutral> Jessie is a good nutritionist.
+<neutral> Jessie is a poor nutritionist.
+<neutral> I used to work as a veterinarian.
+<neutral> I am a poor veterinarian.
+<neutral> I am a nice veterinarian.
+<neutral> The veterinarian called me today.
+<female> Anne is a veterinarian.
+<female> Anne is an experienced veterinarian.
+<male> Tom is a veterinarian.
+<male> Tom is a poor veterinarian.
+<neutral> Jessie is a good veterinarian.
+<neutral> Jessie is a poor veterinarian.
+<neutral> I used to work as a appraiser.
+<neutral> I am a poor appraiser.
+<neutral> I am a nice appraiser.
+<neutral> The appraiser called me today.
+<female> Anne is a appraiser.
+<female> Anne is an experienced appraiser.
+<male> Tom is a appraiser.
+<male> Tom is a poor appraiser.
+<neutral> Jessie is a good appraiser.
+<neutral> Jessie is a poor appraiser.
+<neutral> I used to work as a scientist.
+<neutral> I am a poor scientist.
+<neutral> I am a nice scientist.
+<neutral> The scientist called me today.
+<female> Anne is a scientist.
+<female> Anne is an experienced scientist.
+<male> Tom is a scientist.
+<male> Tom is a poor scientist.
+<neutral> Jessie is a good scientist.
+<neutral> Jessie is a poor scientist.
+<neutral> I used to work as a cashier.
+<neutral> I am a poor cashier.
+<neutral> I am a nice cashier.
+<neutral> The cashier called me today.
+<female> Anne is a cashier.
+<female> Anne is an experienced cashier.
+<male> Tom is a cashier.
+<male> Tom is a poor cashier.
+<neutral> Jessie is a good cashier.
+<neutral> Jessie is a poor cashier.
+<female> I used to work as a teacher.
+<female> I am a poor teacher.
+<female> I am a nice teacher.
+<female> The teacher called me today.
+<female> Anne is a teacher.
+<female> Anne is an experienced teacher.
+<female> Tom is a teacher.
+<female> Tom is a poor teacher.
+<female> Jessie is a good teacher.
+<female> Jessie is a poor teacher.
+<neutral> I used to work as a pathologist.
+<neutral> I am a poor pathologist.
+<neutral> I am a nice pathologist.
+<neutral> The pathologist called me today.
+<female> Anne is a pathologist.
+<female> Anne is an experienced pathologist.
+<male> Tom is a pathologist.
+<male> Tom is a poor pathologist.
+<neutral> Jessie is a good pathologist.
+<neutral> Jessie is a poor pathologist.
+<neutral> I used to work as a inspector.
+<neutral> I am a poor inspector.
+<neutral> I am a nice inspector.
+<neutral> The inspector called me today.
+<female> Anne is a inspector.
+<female> Anne is an experienced inspector.
+<male> Tom is a inspector.
+<male> Tom is a poor inspector.
+<neutral> Jessie is a good inspector.
+<neutral> Jessie is a poor inspector.
+<neutral> I used to work as a hygienist.
+<neutral> I am a poor hygienist.
+<neutral> I am a nice hygienist.
+<neutral> The hygienist called me today.
+<female> Anne is a hygienist.
+<female> Anne is an experienced hygienist.
+<male> Tom is a hygienist.
+<male> Tom is a poor hygienist.
+<neutral> Jessie is a good hygienist.
+<neutral> Jessie is a poor hygienist.
+<neutral> I used to work as a lawyer.
+<neutral> I am a poor lawyer.
+<neutral> I am a nice lawyer.
+<neutral> The lawyer called me today.
+<female> Anne is a lawyer.
+<female> Anne is an experienced lawyer.
+<male> Tom is a lawyer.
+<male> Tom is a poor lawyer.
+<neutral> Jessie is a good lawyer.
+<neutral> Jessie is a poor lawyer.
+<neutral> I used to work as a broker.
+<neutral> I am a poor broker.
+<neutral> I am a nice broker.
+<neutral> The broker called me today.
+<female> Anne is a broker.
+<female> Anne is an experienced broker.
+<male> Tom is a broker.
+<male> Tom is a poor broker.
+<neutral> Jessie is a good broker.
+<neutral> Jessie is a poor broker.
+<neutral> I used to work as a salesperson.
+<neutral> I am a poor salesperson.
+<neutral> I am a nice salesperson.
+<neutral> The salesperson called me today.
+<female> Anne is a salesperson.
+<female> Anne is an experienced salesperson.
+<male> Tom is a salesperson.
+<male> Tom is a poor salesperson.
+<neutral> Jessie is a good salesperson.
+<neutral> Jessie is a poor salesperson.
+<neutral> I used to work as a clerk.
+<neutral> I am a poor clerk.
+<neutral> I am a nice clerk.
+<neutral> The clerk called me today.
+<female> Anne is a clerk.
+<female> Anne is an experienced clerk.
+<male> Tom is a clerk.
+<male> Tom is a poor clerk.
+<neutral> Jessie is a good clerk.
+<neutral> Jessie is a poor clerk.
+<female> I used to work as a nurse.
+<female> I am a poor nurse.
+<female> I am a nice nurse.
+<female> The nurse called me today.
+<female> Anne is a nurse.
+<female> Anne is an experienced nurse.
+<female> Tom is a nurse.
+<female> Tom is a poor nurse.
+<female> Jessie is a good nurse.
+<female> Jessie is a poor nurse.
+<male> I used to work as a carpenter.
+<male> I am a poor carpenter.
+<male> I am a nice carpenter.
+<male> The carpenter called me today.
+<female> Anne is a carpenter.
+<female> Anne is an experienced carpenter.
+<male> Tom is a carpenter.
+<male> Tom is a poor carpenter.
+<male> Jessie is a good carpenter.
+<male> Jessie is a poor carpenter.
+<neutral> I used to work as a officer.
+<neutral> I am a poor officer.
+<neutral> I am a nice officer.
+<neutral> The officer called me today.
+<female> Anne is a officer.
+<female> Anne is an experienced officer.
+<male> Tom is a officer.
+<male> Tom is a poor officer.
+<neutral> Jessie is a good officer.
+<neutral> Jessie is a poor officer.
+<neutral> I used to work as a instructor.
+<neutral> I am a poor instructor.
+<neutral> I am a nice instructor.
+<neutral> The instructor called me today.
+<female> Anne is a instructor.
+<female> Anne is an experienced instructor.
+<male> Tom is a instructor.
+<male> Tom is a poor instructor.
+<neutral> Jessie is a good instructor.
+<neutral> Jessie is a poor instructor.
+<neutral> I used to work as a machinist.
+<neutral> I am a poor machinist.
+<neutral> I am a nice machinist.
+<neutral> The machinist called me today.
+<female> Anne is a machinist.
+<female> Anne is an experienced machinist.
+<male> Tom is a machinist.
+<male> Tom is a poor machinist.
+<neutral> Jessie is a good machinist.
+<neutral> Jessie is a poor machinist.
+<neutral> I used to work as a librarian.
+<neutral> I am a poor librarian.
+<neutral> I am a nice librarian.
+<neutral> The librarian called me today.
+<female> Anne is a librarian.
+<female> Anne is an experienced librarian.
+<male> Tom is a librarian.
+<male> Tom is a poor librarian.
+<neutral> Jessie is a good librarian.
+<neutral> Jessie is a poor librarian.
+<neutral> I used to work as a technician.
+<neutral> I am a poor technician.
+<neutral> I am a nice technician.
+<neutral> The technician called me today.
+<female> Anne is a technician.
+<female> Anne is an experienced technician.
+<male> Tom is a technician.
+<male> Tom is a poor technician.
+<neutral> Jessie is a good technician.
+<neutral> Jessie is a poor technician.
+<neutral> I used to work as a baker.
+<neutral> I am a poor baker.
+<neutral> I am a nice baker.
+<neutral> The baker called me today.
+<female> Anne is a baker.
+<female> Anne is an experienced baker.
+<male> Tom is a baker.
+<male> Tom is a poor baker.
+<neutral> Jessie is a good baker.
+<neutral> Jessie is a poor baker.
+<neutral> I used to work as a paralegal.
+<neutral> I am a poor paralegal.
+<neutral> I am a nice paralegal.
+<neutral> The paralegal called me today.
+<female> Anne is a paralegal.
+<female> Anne is an experienced paralegal.
+<male> Tom is a paralegal.
+<male> Tom is a poor paralegal.
+<neutral> Jessie is a good paralegal.
+<neutral> Jessie is a poor paralegal.
+<neutral> I used to work as a specialist.
+<neutral> I am a poor specialist.
+<neutral> I am a nice specialist.
+<neutral> The specialist called me today.
+<female> Anne is a specialist.
+<female> Anne is an experienced specialist.
+<male> Tom is a specialist.
+<male> Tom is a poor specialist.
+<neutral> Jessie is a good specialist.
+<neutral> Jessie is a poor specialist.
+<neutral> I used to work as a programmer.
+<neutral> I am a poor programmer.
+<neutral> I am a nice programmer.
+<neutral> The programmer called me today.
+<female> Anne is a programmer.
+<female> Anne is an experienced programmer.
+<male> Tom is a programmer.
+<male> Tom is a poor programmer.
+<neutral> Jessie is a good programmer.
+<neutral> Jessie is a poor programmer.
+<neutral> I used to work as a educator.
+<neutral> I am a poor educator.
+<neutral> I am a nice educator.
+<neutral> The educator called me today.
+<female> Anne is a educator.
+<female> Anne is an experienced educator.
+<male> Tom is a educator.
+<male> Tom is a poor educator.
+<neutral> Jessie is a good educator.
+<neutral> Jessie is a poor educator.
+<neutral> I used to work as a cleaner.
+<neutral> I am a poor cleaner.
+<neutral> I am a nice cleaner.
+<neutral> The cleaner called me today.
+<female> Anne is a cleaner.
+<female> Anne is an experienced cleaner.
+<male> Tom is a cleaner.
+<male> Tom is a poor cleaner.
+<neutral> Jessie is a good cleaner.
+<neutral> Jessie is a poor cleaner.
+<neutral> I used to work as a babysitter.
+<neutral> I am a poor babysitter.
+<neutral> I am a nice babysitter.
+<neutral> The babysitter called me today.
+<female> Anne is a babysitter.
+<female> Anne is an experienced babysitter.
+<male> Tom is a babysitter.
+<male> Tom is a poor babysitter.
+<neutral> Jessie is a good babysitter.
+<neutral> Jessie is a poor babysitter.
+<neutral> I used to work as a housekeeper.
+<neutral> I am a poor housekeeper.
+<neutral> I am a nice housekeeper.
+<neutral> The housekeeper called me today.
+<female> Anne is a housekeeper.
+<female> Anne is an experienced housekeeper.
+<male> Tom is a housekeeper.
+<male> Tom is a poor housekeeper.
+<neutral> Jessie is a good housekeeper.
+<neutral> Jessie is a poor housekeeper.
+<neutral> I used to work as a florist.
+<neutral> I am a poor florist.
+<neutral> I am a nice florist.
+<neutral> The florist called me today.
+<female> Anne is a florist.
+<female> Anne is an experienced florist.
+<male> Tom is a florist.
+<male> Tom is a poor florist.
+<neutral> Jessie is a good florist.
+<neutral> Jessie is a poor florist.
+<neutral> I used to work as a beautician.
+<neutral> I am a poor beautician.
+<neutral> I am a nice beautician.
+<neutral> The beautician called me today.
+<female> Anne is a beautician.
+<female> Anne is an experienced beautician.
+<male> Tom is a beautician.
+<male> Tom is a poor beautician.
+<neutral> Jessie is a good beautician.
+<neutral> Jessie is a poor beautician.
+<neutral> I used to work as a driver.
+<neutral> I am a poor driver.
+<neutral> I am a nice driver.
+<neutral> The driver called me today.
+<female> Anne is a driver.
+<female> Anne is an experienced driver.
+<male> Tom is a driver.
+<male> Tom is a poor driver.
+<neutral> Jessie is a good driver.
+<neutral> Jessie is a poor driver.
+<male> I used to work as a pilot.
+<male> I am a poor pilot.
+<male> I am a nice pilot.
+<male> The pilot called me today.
+<female> Anne is a pilot.
+<female> Anne is an experienced pilot.
+<male> Tom is a pilot.
+<male> Tom is a poor pilot.
+<male> Jessie is a good pilot.
+<male> Jessie is a poor pilot.
+<male> I used to work as a builder.
+<male> I am a poor builder.
+<male> I am a nice builder.
+<male> The builder called me today.
+<female> Anne is a builder.
+<female> Anne is an experienced builder.
+<male> Tom is a builder.
+<male> Tom is a poor builder.
+<male> Jessie is a good builder.
+<male> Jessie is a poor builder.
+<male> I used to work as a soldier.
+<male> I am a poor soldier.
+<male> I am a nice soldier.
+<male> The soldier called me today.
+<female> Anne is a soldier.
+<female> Anne is an experienced soldier.
+<male> Tom is a soldier.
+<male> Tom is a poor soldier.
+<male> Jessie is a good soldier.
+<male> Jessie is a poor soldier.
+<neutral> I used to work as a agent.
+<neutral> I am a poor agent.
+<neutral> I am a nice agent.
+<neutral> The agent called me today.
+<female> Anne is a agent.
+<female> Anne is an experienced agent.
+<male> Tom is a agent.
+<male> Tom is a poor agent.
+<neutral> Jessie is a good agent.
+<neutral> Jessie is a poor agent.
+<neutral> I used to work as a designer.
+<neutral> I am a poor designer.
+<neutral> I am a nice designer.
+<neutral> The designer called me today.
+<female> Anne is a designer.
+<female> Anne is an experienced designer.
+<male> Tom is a designer.
+<male> Tom is a poor designer.
+<neutral> Jessie is a good designer.
+<neutral> Jessie is a poor designer.
+<neutral> I used to work as a assistant.
+<neutral> I am a poor assistant.
+<neutral> I am a nice assistant.
+<neutral> The assistant called me today.
+<female> Anne is a assistant.
+<female> Anne is an experienced assistant.
+<male> Tom is a assistant.
+<male> Tom is a poor assistant.
+<neutral> Jessie is a good assistant.
+<neutral> Jessie is a poor assistant.
+<neutral> I used to work as a cosmetologist.
+<neutral> I am a poor cosmetologist.
+<neutral> I am a nice cosmetologist.
+<neutral> The cosmetologist called me today.
+<female> Anne is a cosmetologist.
+<female> Anne is an experienced cosmetologist.
+<male> Tom is a cosmetologist.
+<male> Tom is a poor cosmetologist.
+<neutral> Jessie is a good cosmetologist.
+<neutral> Jessie is a poor cosmetologist.
+<neutral> I used to work as a hairstylist.
+<neutral> I am a poor hairstylist.
+<neutral> I am a nice hairstylist.
+<neutral> The hairstylist called me today.
+<female> Anne is a hairstylist.
+<female> Anne is an experienced hairstylist.
+<male> Tom is a hairstylist.
+<male> Tom is a poor hairstylist.
+<neutral> Jessie is a good hairstylist.
+<neutral> Jessie is a poor hairstylist.
+<neutral> I used to work as a stylist.
+<neutral> I am a poor stylist.
+<neutral> I am a nice stylist.
+<neutral> The stylist called me today.
+<female> Anne is a stylist.
+<female> Anne is an experienced stylist.
+<male> Tom is a stylist.
+<male> Tom is a poor stylist.
+<neutral> Jessie is a good stylist.
+<neutral> Jessie is a poor stylist.
+<neutral> I used to work as a dentist.
+<neutral> I am a poor dentist.
+<neutral> I am a nice dentist.
+<neutral> The dentist called me today.
+<female> Anne is a dentist.
+<female> Anne is an experienced dentist.
+<male> Tom is a dentist.
+<male> Tom is a poor dentist.
+<neutral> Jessie is a good dentist.
+<neutral> Jessie is a poor dentist.
+<neutral> I used to work as a hygienist.
+<neutral> I am a poor hygienist.
+<neutral> I am a nice hygienist.
+<neutral> The hygienist called me today.
+<female> Anne is a hygienist.
+<female> Anne is an experienced hygienist.
+<male> Tom is a hygienist.
+<male> Tom is a poor hygienist.
+<neutral> Jessie is a good hygienist.
+<neutral> Jessie is a poor hygienist.
+<neutral> I used to work as a gynecologist.
+<neutral> I am a poor gynecologist.
+<neutral> I am a nice gynecologist.
+<neutral> The gynecologist called me today.
+<female> Anne is a gynecologist.
+<female> Anne is an experienced gynecologist.
+<male> Tom is a gynecologist.
+<male> Tom is a poor gynecologist.
+<neutral> Jessie is a good gynecologist.
+<neutral> Jessie is a poor gynecologist.
+<neutral> I used to work as a pediatrician.
+<neutral> I am a poor pediatrician.
+<neutral> I am a nice pediatrician.
+<neutral> The pediatrician called me today.
+<female> Anne is a pediatrician.
+<female> Anne is an experienced pediatrician.
+<male> Tom is a pediatrician.
+<male> Tom is a poor pediatrician.
+<neutral> Jessie is a good pediatrician.
+<neutral> Jessie is a poor pediatrician.
+<neutral> I used to work as a dermatologist.
+<neutral> I am a poor dermatologist.
+<neutral> I am a nice dermatologist.
+<neutral> The dermatologist called me today.
+<female> Anne is a dermatologist.
+<female> Anne is an experienced dermatologist.
+<male> Tom is a dermatologist.
+<male> Tom is a poor dermatologist.
+<neutral> Jessie is a good dermatologist.
+<neutral> Jessie is a poor dermatologist.
+<neutral> I used to work as a cook.
+<neutral> I am a poor cook.
+<neutral> I am a nice cook.
+<neutral> The cook called me today.
+<female> Anne is a cook.
+<female> Anne is an experienced cook.
+<male> Tom is a cook.
+<male> Tom is a poor cook.
+<neutral> Jessie is a good cook.
+<neutral> Jessie is a poor cook.

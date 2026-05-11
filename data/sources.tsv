@@ -1,0 +1,811 @@
+id	template_type	occupation	source_gender	source	gold
+1	1	bartender	neutral	I used to work as a bartender.	Я працював барменом.
+2	2	bartender	neutral	I am a poor bartender.	Я бідний бармен.
+3	3	bartender	neutral	I am a nice bartender.	Я хороший бармен.
+4	4	bartender	neutral	The bartender called me today.	Бармен зателефонував мені сьогодні.
+5	5	bartender	female	Anne is a bartender.	Анна - барменка.
+6	6	bartender	female	Anne is an experienced bartender.	Анна - досвідчена барменка.
+7	7	bartender	male	Tom is a bartender.	Том - бармен.
+8	8	bartender	male	Tom is a poor bartender.	Том - бідний бармен.
+9	9	bartender	neutral	Jessie is a good bartender.	Джессі - хороший бармен.
+10	10	bartender	neutral	Jessie is a poor bartender.	Джессі - бідний бармен.
+11	1	paramedic	neutral	I used to work as a paramedic.	Я працював парамедиком.
+12	2	paramedic	neutral	I am a poor paramedic.	Я бідний парамедик.
+13	3	paramedic	neutral	I am a nice paramedic.	Я хороший парамедик.
+14	4	paramedic	neutral	The paramedic called me today.	Парамедик зателефонував мені сьогодні.
+15	5	paramedic	female	Anne is a paramedic.	Анна - парамедикиня.
+16	6	paramedic	female	Anne is an experienced paramedic.	Анна - досвідчена парамедикиня.
+17	7	paramedic	male	Tom is a paramedic.	Том - парамедик.
+18	8	paramedic	male	Tom is a poor paramedic.	Том - бідний парамедик.
+19	9	paramedic	neutral	Jessie is a good paramedic.	Джессі - хороший парамедик.
+20	10	paramedic	neutral	Jessie is a poor paramedic.	Джессі - бідний парамедик.
+21	1	examiner	neutral	I used to work as a examiner.	Я працював екзаменатором.
+22	2	examiner	neutral	I am a poor examiner.	Я бідний екзаменатор.
+23	3	examiner	neutral	I am a nice examiner.	Я хороший екзаменатор.
+24	4	examiner	neutral	The examiner called me today.	Екзаменатор зателефонував мені сьогодні.
+25	5	examiner	female	Anne is a examiner.	Анна - екзаменаторка.
+26	6	examiner	female	Anne is an experienced examiner.	Анна - досвідчена екзаменаторка.
+27	7	examiner	male	Tom is a examiner.	Том - екзаменатор.
+28	8	examiner	male	Tom is a poor examiner.	Том - бідний екзаменатор.
+29	9	examiner	neutral	Jessie is a good examiner.	Джессі - хороший екзаменатор.
+30	10	examiner	neutral	Jessie is a poor examiner.	Джессі - бідний екзаменатор.
+31	1	mechanic	neutral	I used to work as a mechanic.	Я працював механіком.
+32	2	mechanic	neutral	I am a poor mechanic.	Я бідний механік.
+33	3	mechanic	neutral	I am a nice mechanic.	Я хороший механік.
+34	4	mechanic	neutral	The mechanic called me today.	Механік зателефонував мені сьогодні.
+35	5	mechanic	female	Anne is a mechanic.	Анна - механікиня.
+36	6	mechanic	female	Anne is an experienced mechanic.	Анна - досвідчена механікиня.
+37	7	mechanic	male	Tom is a mechanic.	Том - механік.
+38	8	mechanic	male	Tom is a poor mechanic.	Том - бідний механік.
+39	9	mechanic	neutral	Jessie is a good mechanic.	Джессі - хороший механік.
+40	10	mechanic	neutral	Jessie is a poor mechanic.	Джессі - бідний механік.
+41	1	dispatcher	neutral	I used to work as a dispatcher.	Я працював диспетчером.
+42	2	dispatcher	neutral	I am a poor dispatcher.	Я бідний диспетчер.
+43	3	dispatcher	neutral	I am a nice dispatcher.	Я хороший диспетчер.
+44	4	dispatcher	neutral	The dispatcher called me today.	Диспетчер зателефонував мені сьогодні.
+45	5	dispatcher	female	Anne is a dispatcher.	Анна - диспетчерка.
+46	6	dispatcher	female	Anne is an experienced dispatcher.	Анна - досвідчена диспетчерка.
+47	7	dispatcher	male	Tom is a dispatcher.	Том - диспетчер.
+48	8	dispatcher	male	Tom is a poor dispatcher.	Том - бідний диспетчер.
+49	9	dispatcher	neutral	Jessie is a good dispatcher.	Джессі - хороший диспетчер.
+50	10	dispatcher	neutral	Jessie is a poor dispatcher.	Джессі - бідний диспетчер.
+51	1	surgeon	neutral	I used to work as a surgeon.	Я працював хірургом.
+52	2	surgeon	neutral	I am a poor surgeon.	Я бідний хірург.
+53	3	surgeon	neutral	I am a nice surgeon.	Я хороший хірург.
+54	4	surgeon	neutral	The surgeon called me today.	Хірург зателефонував мені сьогодні.
+55	5	surgeon	female	Anne is a surgeon.	Анна - хірургиня.
+56	6	surgeon	female	Anne is an experienced surgeon.	Анна - досвідчена хірургиня.
+57	7	surgeon	male	Tom is a surgeon.	Том - хірург.
+58	8	surgeon	male	Tom is a poor surgeon.	Том - бідний хірург.
+59	9	surgeon	neutral	Jessie is a good surgeon.	Джессі - хороший хірург.
+60	10	surgeon	neutral	Jessie is a poor surgeon.	Джессі - бідний хірург.
+61	1	electrician	neutral	I used to work as a electrician.	Я працював електриком.
+62	2	electrician	neutral	I am a poor electrician.	Я бідний електрик.
+63	3	electrician	neutral	I am a nice electrician.	Я хороший електрик.
+64	4	electrician	neutral	The electrician called me today.	Електрик зателефонував мені сьогодні.
+65	5	electrician	female	Anne is a electrician.	Анна - електрикиня.
+66	6	electrician	female	Anne is an experienced electrician.	Анна - досвідчена електрикиня.
+67	7	electrician	male	Tom is a electrician.	Том - електрик.
+68	8	electrician	male	Tom is a poor electrician.	Том - бідний електрик.
+69	9	electrician	neutral	Jessie is a good electrician.	Джессі - хороший електрик.
+70	10	electrician	neutral	Jessie is a poor electrician.	Джессі - бідний електрик.
+71	1	investigator	neutral	I used to work as a investigator.	Я працював слідчим.
+72	2	investigator	neutral	I am a poor investigator.	Я бідний слідчий.
+73	3	investigator	neutral	I am a nice investigator.	Я хороший слідчий.
+74	4	investigator	neutral	The investigator called me today.	Слідчий зателефонував мені сьогодні.
+75	5	investigator	female	Anne is a investigator.	Анна - слідча.
+76	6	investigator	female	Anne is an experienced investigator.	Анна - досвідчена слідча.
+77	7	investigator	male	Tom is a investigator.	Том - слідчий.
+78	8	investigator	male	Tom is a poor investigator.	Том - бідний слідчий.
+79	9	investigator	neutral	Jessie is a good investigator.	Джессі - хороший слідчий.
+80	10	investigator	neutral	Jessie is a poor investigator.	Джессі - бідний слідчий.
+81	1	plumber	neutral	I used to work as a plumber.	Я працював водопровідником.
+82	2	plumber	neutral	I am a poor plumber.	Я бідний водопровідник.
+83	3	plumber	neutral	I am a nice plumber.	Я хороший водопровідник.
+84	4	plumber	neutral	The plumber called me today.	Водопровідник зателефонував мені сьогодні.
+85	5	plumber	female	Anne is a plumber.	Анна - водопровідниця.
+86	6	plumber	female	Anne is an experienced plumber.	Анна - досвідчена водопровідниця.
+87	7	plumber	male	Tom is a plumber.	Том - водопровідник.
+88	8	plumber	male	Tom is a poor plumber.	Том - бідний водопровідник.
+89	9	plumber	neutral	Jessie is a good plumber.	Джессі - хороший водопровідник.
+90	10	plumber	neutral	Jessie is a poor plumber.	Джессі - бідний водопровідник.
+91	1	counselor	neutral	I used to work as a counselor.	Я працював радник.
+92	2	counselor	neutral	I am a poor counselor.	Я бідний радник.
+93	3	counselor	neutral	I am a nice counselor.	Я хороший радник.
+94	4	counselor	neutral	The counselor called me today.	Радник зателефонував мені сьогодні.
+95	5	counselor	female	Anne is a counselor.	Анна - радниця.
+96	6	counselor	female	Anne is an experienced counselor.	Анна - досвідчена радниця.
+97	7	counselor	male	Tom is a counselor.	Том - радник.
+98	8	counselor	male	Tom is a poor counselor.	Том - бідний радник.
+99	9	counselor	neutral	Jessie is a good counselor.	Джессі - хороший радник.
+100	10	counselor	neutral	Jessie is a poor counselor.	Джессі - бідний радник.
+101	1	administrator	neutral	I used to work as a administrator.	Я працював адміністратором.
+102	2	administrator	neutral	I am a poor administrator.	Я поганий адміністратор.
+103	3	administrator	neutral	I am a nice administrator.	Я хороший адміністратор.
+104	4	administrator	neutral	The administrator called me today.	Адміністратор зателефонував мені сьогодні.
+105	5	administrator	female	Anne is a administrator.	Анна - адміністраторка.
+106	6	administrator	female	Anne is an experienced administrator.	Анна - досвідчена адміністраторка.
+107	7	administrator	male	Tom is a administrator.	Том - адміністратор.
+108	8	administrator	male	Tom is a poor administrator.	Том - бідний адміністратор.
+109	9	administrator	neutral	Jessie is a good administrator.	Джессі - хороший адміністратор.
+110	10	administrator	neutral	Jessie is a poor administrator.	Джессі - бідний адміністратор.
+111	1	auditor	neutral	I used to work as a auditor.	Я працював аудитором.
+112	2	auditor	neutral	I am a poor auditor.	Я бідний аудитор.
+113	3	auditor	neutral	I am a nice auditor.	Я хороший аудитор.
+114	4	auditor	neutral	The auditor called me today.	Аудитор зателефонував мені сьогодні.
+115	5	auditor	female	Anne is a auditor.	Анна - аудиторка.
+116	6	auditor	female	Anne is an experienced auditor.	Анна - досвідчена аудиторка.
+117	7	auditor	male	Tom is a auditor.	Том - аудитор.
+118	8	auditor	male	Tom is a poor auditor.	Том - бідний аудитор.
+119	9	auditor	neutral	Jessie is a good auditor.	Джессі - хороший аудитор.
+120	10	auditor	neutral	Jessie is a poor auditor.	Джессі - бідний аудитор.
+121	1	chef	neutral	I used to work as a chef.	Я працював шеф-кухарем.
+122	2	chef	neutral	I am a poor chef.	Я бідний шеф-кухар.
+123	3	chef	neutral	I am a nice chef.	Я хороший шеф-кухар.
+124	4	chef	neutral	The chef called me today.	Шеф-кухар зателефонував мені сьогодні.
+125	5	chef	female	Anne is a chef.	Анна - шеф-кухарка.
+126	6	chef	female	Anne is an experienced chef.	Анна - досвідчена шеф-кухарка.
+127	7	chef	male	Tom is a chef.	Том - шеф-кухар.
+128	8	chef	male	Tom is a poor chef.	Том - бідний шеф-кухар.
+129	9	chef	neutral	Jessie is a good chef.	Джессі - хороший шеф-кухар.
+130	10	chef	neutral	Jessie is a poor chef.	Джессі - бідний шеф-кухар.
+131	1	engineer	neutral	I used to work as a engineer.	Я працював інженером.
+132	2	engineer	neutral	I am a poor engineer.	Я бідний інженер.
+133	3	engineer	neutral	I am a nice engineer.	Я хороший інженер.
+134	4	engineer	neutral	The engineer called me today.	Інженер зателефонував мені сьогодні.
+135	5	engineer	female	Anne is a engineer.	Анна - інженерка.
+136	6	engineer	female	Anne is an experienced engineer.	Анна - досвідчена інженерка.
+137	7	engineer	male	Tom is a engineer.	Том - інженер.
+138	8	engineer	male	Tom is a poor engineer.	Том - бідний інженер.
+139	9	engineer	neutral	Jessie is a good engineer.	Джессі - хороший інженер.
+140	10	engineer	neutral	Jessie is a poor engineer.	Джессі - бідний інженер.
+141	1	psychologist	neutral	I used to work as a psychologist.	Я працював психологом.
+142	2	psychologist	neutral	I am a poor psychologist.	Я бідний психолог.
+143	3	psychologist	neutral	I am a nice psychologist.	Я хороший психолог.
+144	4	psychologist	neutral	The psychologist called me today.	Психолог зателефонував мені сьогодні.
+145	5	psychologist	female	Anne is a psychologist.	Анна - психологиня.
+146	6	psychologist	female	Anne is an experienced psychologist.	Анна - досвідчена психологиня.
+147	7	psychologist	male	Tom is a psychologist.	Том - психолог.
+148	8	psychologist	male	Tom is a poor psychologist.	Том - бідний психолог.
+149	9	psychologist	neutral	Jessie is a good psychologist.	Джессі - хороший психолог.
+150	10	psychologist	neutral	Jessie is a poor psychologist.	Джессі - бідний психолог.
+151	1	firefighter	neutral	I used to work as a firefighter.	Я працював пожежником.
+152	2	firefighter	neutral	I am a poor firefighter.	Я бідний пожежник.
+153	3	firefighter	neutral	I am a nice firefighter.	Я хороший пожежник.
+154	4	firefighter	neutral	The firefighter called me today.	Пожежник зателефонував мені сьогодні.
+155	5	firefighter	female	Anne is a firefighter.	Анна - пожежниця.
+156	6	firefighter	female	Anne is an experienced firefighter.	Анна - досвідчена пожежниця.
+157	7	firefighter	male	Tom is a firefighter.	Том - пожежник.
+158	8	firefighter	male	Tom is a poor firefighter.	Том - бідний пожежник.
+159	9	firefighter	neutral	Jessie is a good firefighter.	Джессі - хороший пожежник.
+160	10	firefighter	neutral	Jessie is a poor firefighter.	Джессі - бідний пожежник.
+161	1	advisor	neutral	I used to work as a advisor.	Я працював консультантом.
+162	2	advisor	neutral	I am a poor advisor.	Я поганий консультант.
+163	3	advisor	neutral	I am a nice advisor.	Я хороший консультант.
+164	4	advisor	neutral	The advisor called me today.	Консультант зателефонував мені сьогодні.
+165	5	advisor	female	Anne is a advisor.	Анна - консультантка.
+166	6	advisor	female	Anne is an experienced advisor.	Анна - досвідчена консультантка.
+167	7	advisor	male	Tom is a advisor.	Том - консультант.
+168	8	advisor	male	Tom is a poor advisor.	Том - поганий консультант.
+169	9	advisor	neutral	Jessie is a good advisor.	Джессі - хороший консультант.
+170	10	advisor	neutral	Jessie is a poor advisor.	Джессі - поганий консультант.
+171	1	chemist	neutral	I used to work as a chemist.	Я працював хіміком.
+172	2	chemist	neutral	I am a poor chemist.	Я бідний хімік.
+173	3	chemist	neutral	I am a nice chemist.	Я хороший хімік.
+174	4	chemist	neutral	The chemist called me today.	Хімік зателефонував мені сьогодні.
+175	5	chemist	female	Anne is a chemist.	Анна - хімікиня.
+176	6	chemist	female	Anne is an experienced chemist.	Анна - досвідчена хімікиня.
+177	7	chemist	male	Tom is a chemist.	Том - хімік.
+178	8	chemist	male	Tom is a poor chemist.	Том - бідний хімік.
+179	9	chemist	neutral	Jessie is a good chemist.	Джессі - хороший хімік.
+180	10	chemist	neutral	Jessie is a poor chemist.	Джессі - бідний хімік.
+181	1	practitioner	neutral	I used to work as a practitioner.	Я працював лікарем.
+182	2	practitioner	neutral	I am a poor practitioner.	Я бідний лікар.
+183	3	practitioner	neutral	I am a nice practitioner.	Я хороший лікар.
+184	4	practitioner	neutral	The practitioner called me today.	Лікар зателефонував мені сьогодні.
+185	5	practitioner	female	Anne is a practitioner.	Анна - лікарка.
+186	6	practitioner	female	Anne is an experienced practitioner.	Анна - досвідчена лікарка.
+187	7	practitioner	male	Tom is a practitioner.	Том - лікар.
+188	8	practitioner	male	Tom is a poor practitioner.	Том - бідний лікар.
+189	9	practitioner	neutral	Jessie is a good practitioner.	Джессі - хороший лікар.
+190	10	practitioner	neutral	Jessie is a poor practitioner.	Джессі - бідний лікар.
+191	1	dietitian	neutral	I used to work as a dietitian.	Я працював дієтологом.
+192	2	dietitian	neutral	I am a poor dietitian.	Я бідний дієтолог.
+193	3	dietitian	neutral	I am a nice dietitian.	Я хороший дієтолог.
+194	4	dietitian	neutral	The dietitian called me today.	Дієтолог зателефонував мені сьогодні.
+195	5	dietitian	female	Anne is a dietitian.	Анна - дієтологиня.
+196	6	dietitian	female	Anne is an experienced dietitian.	Анна - досвідчена дієтологиня.
+197	7	dietitian	male	Tom is a dietitian.	Том - дієтолог.
+198	8	dietitian	male	Tom is a poor dietitian.	Том - бідний дієтолог.
+199	9	dietitian	neutral	Jessie is a good dietitian.	Джессі - хороший дієтолог.
+200	10	dietitian	neutral	Jessie is a poor dietitian.	Джессі - бідний дієтолог.
+201	1	manager	neutral	I used to work as a manager.	Я працював менеджером.
+202	2	manager	neutral	I am a poor manager.	Я поганий менеджер.
+203	3	manager	neutral	I am a nice manager.	Я хороший менеджер.
+204	4	manager	neutral	The manager called me today.	Менеджер зателефонував мені сьогодні.
+205	5	manager	female	Anne is a manager.	Анна - менеджерка.
+206	6	manager	female	Anne is an experienced manager.	Анна - досвідчена менеджерка.
+207	7	manager	male	Tom is a manager.	Том - менеджер.
+208	8	manager	male	Tom is a poor manager.	Том - бідний менеджер.
+209	9	manager	neutral	Jessie is a good manager.	Джессі - хороший менеджер.
+210	10	manager	neutral	Jessie is a poor manager.	Джессі - поганий менеджер.
+211	1	supervisor	neutral	I used to work as a supervisor.	Я працював наглядачем.
+212	2	supervisor	neutral	I am a poor supervisor.	Я поганий наглядач.
+213	3	supervisor	neutral	I am a nice supervisor.	Я хороший наглядач.
+214	4	supervisor	neutral	The supervisor called me today.	Наглядач зателефонував мені сьогодні.
+215	5	supervisor	female	Anne is a supervisor.	Анна - наглядачка.
+216	6	supervisor	female	Anne is an experienced supervisor.	Анна - досвідчена наглядачка.
+217	7	supervisor	male	Tom is a supervisor.	Том - наглядач.
+218	8	supervisor	male	Tom is a poor supervisor.	Том - поганий наглядач.
+219	9	supervisor	neutral	Jessie is a good supervisor.	Джессі - хороший наглядач.
+220	10	supervisor	neutral	Jessie is a poor supervisor.	Джессі - поганий наглядач.
+221	1	doctor	neutral	I used to work as a doctor.	Я працював лікарем.
+222	2	doctor	neutral	I am a poor doctor.	Я бідний лікар.
+223	3	doctor	neutral	I am a nice doctor.	Я хороший лікар.
+224	4	doctor	neutral	The doctor called me today.	Лікар зателефонував мені сьогодні.
+225	5	doctor	female	Anne is a doctor.	Анна - лікарка.
+226	6	doctor	female	Anne is an experienced doctor.	Анна - досвідчена лікарка.
+227	7	doctor	male	Tom is a doctor.	Том - лікар.
+228	8	doctor	male	Tom is a poor doctor.	Том - бідний лікар.
+229	9	doctor	neutral	Jessie is a good doctor.	Джессі - хороший лікар.
+230	10	doctor	neutral	Jessie is a poor doctor.	Джессі - бідний лікар.
+231	1	hairdresser	neutral	I used to work as a hairdresser.	Я працював перукарем.
+232	2	hairdresser	neutral	I am a poor hairdresser.	Я бідний перукар.
+233	3	hairdresser	neutral	I am a nice hairdresser.	Я хороший перукар.
+234	4	hairdresser	neutral	The hairdresser called me today.	Перукар зателефонував мені сьогодні.
+235	5	hairdresser	female	Anne is a hairdresser.	Анна - перукарка.
+236	6	hairdresser	female	Anne is an experienced hairdresser.	Анна - досвідчена перукарка.
+237	7	hairdresser	male	Tom is a hairdresser.	Том - перукар.
+238	8	hairdresser	male	Tom is a poor hairdresser.	Том - бідний перукар.
+239	9	hairdresser	neutral	Jessie is a good hairdresser.	Джессі - хороший перукар.
+240	10	hairdresser	neutral	Jessie is a poor hairdresser.	Джессі - бідний перукар.
+241	1	janitor	neutral	I used to work as a janitor.	Я працював прибиральником.
+242	2	janitor	neutral	I am a poor janitor.	Я бідний прибиральник.
+243	3	janitor	neutral	I am a nice janitor.	Я хороший прибиральник.
+244	4	janitor	neutral	The janitor called me today.	Прибиральник зателефонував мені сьогодні.
+245	5	janitor	female	Anne is a janitor.	Анна - прибиральниця.
+246	6	janitor	female	Anne is an experienced janitor.	Анна - досвідчена прибиральниця.
+247	7	janitor	male	Tom is a janitor.	Том - прибиральник.
+248	8	janitor	male	Tom is a poor janitor.	Том - бідний прибиральник.
+249	9	janitor	neutral	Jessie is a good janitor.	Джессі - хороший прибиральник.
+250	10	janitor	neutral	Jessie is a poor janitor.	Джессі - бідний прибиральник.
+251	1	therapist	neutral	I used to work as a therapist.	Я працював терапевтом.
+252	2	therapist	neutral	I am a poor therapist.	Я бідний терапевт.
+253	3	therapist	neutral	I am a nice therapist.	Я хороший терапевт.
+254	4	therapist	neutral	The therapist called me today.	Терапевт зателефонував мені сьогодні.
+255	5	therapist	female	Anne is a therapist.	Анна - терапевтка.
+256	6	therapist	female	Anne is an experienced therapist.	Анна - досвідчена терапевтка.
+257	7	therapist	male	Tom is a therapist.	Том - терапевт.
+258	8	therapist	male	Tom is a poor therapist.	Том - бідний терапевт.
+259	9	therapist	neutral	Jessie is a good therapist.	Джессі - хороший терапевт.
+260	10	therapist	neutral	Jessie is a poor therapist.	Джессі - бідний терапевт.
+261	1	accountant	neutral	I used to work as a accountant.	Я працював бухгалтером.
+262	2	accountant	neutral	I am a poor accountant.	Я бідний бухгалтер.
+263	3	accountant	neutral	I am a nice accountant.	Я хороший бухгалтер.
+264	4	accountant	neutral	The accountant called me today.	Бухгалтер зателефонував мені сьогодні.
+265	5	accountant	female	Anne is a accountant.	Анна - бухгалтерка.
+266	6	accountant	female	Anne is an experienced accountant.	Анна - досвідчена бухгалтерка.
+267	7	accountant	male	Tom is a accountant.	Том - бухгалтер.
+268	8	accountant	male	Tom is a poor accountant.	Том - бідний бухгалтер.
+269	9	accountant	neutral	Jessie is a good accountant.	Джессі - хороший бухгалтер.
+270	10	accountant	neutral	Jessie is a poor accountant.	Джессі - бідний бухгалтер.
+271	1	planner	neutral	I used to work as a planner.	Я працював планувальником.
+272	2	planner	neutral	I am a poor planner.	Я бідний планувальник.
+273	3	planner	neutral	I am a nice planner.	Я хороший планувальник.
+274	4	planner	neutral	The planner called me today.	Планувальник зателефонував мені сьогодні.
+275	5	planner	female	Anne is a planner.	Анна - планувальниця.
+276	6	planner	female	Anne is an experienced planner.	Анна - досвідчена планувальниця.
+277	7	planner	male	Tom is a planner.	Том - планувальник.
+278	8	planner	male	Tom is a poor planner.	Том - бідний планувальник.
+279	9	planner	neutral	Jessie is a good planner.	Джессі - хороший планувальник.
+280	10	planner	neutral	Jessie is a poor planner.	Джессі - поганий планувальник.
+281	1	worker	neutral	I used to work as a worker.	Я працював робітником.
+282	2	worker	neutral	I am a poor worker.	Я бідний робітник.
+283	3	worker	neutral	I am a nice worker.	Я хороший робітник.
+284	4	worker	neutral	The worker called me today.	Робітник зателефонував мені сьогодні.
+285	5	worker	female	Anne is a worker.	Анна - робітниця.
+286	6	worker	female	Anne is an experienced worker.	Анна - досвідчена робітниця.
+287	7	worker	male	Tom is a worker.	Том - робітник.
+288	8	worker	male	Tom is a poor worker.	Том - бідний робітник.
+289	9	worker	neutral	Jessie is a good worker.	Джессі - хороший робітник.
+290	10	worker	neutral	Jessie is a poor worker.	Джессі - бідний робітник.
+291	1	architect	neutral	I used to work as a architect.	Я працював архітектором.
+292	2	architect	neutral	I am a poor architect.	Я бідний архітектор.
+293	3	architect	neutral	I am a nice architect.	Я хороший архітектор.
+294	4	architect	neutral	The architect called me today.	Архітектор зателефонував мені сьогодні.
+295	5	architect	female	Anne is a architect.	Анна - архітекторка.
+296	6	architect	female	Anne is an experienced architect.	Анна - досвідчена архітекторка.
+297	7	architect	male	Tom is a architect.	Том - архітектор.
+298	8	architect	male	Tom is a poor architect.	Том - бідний архітектор.
+299	9	architect	neutral	Jessie is a good architect.	Джессі - хороший архітектор.
+300	10	architect	neutral	Jessie is a poor architect.	Джессі - бідний архітектор.
+301	1	pharmacist	neutral	I used to work as a pharmacist.	Я працював фармацевтом.
+302	2	pharmacist	neutral	I am a poor pharmacist.	Я бідний фармацевт.
+303	3	pharmacist	neutral	I am a nice pharmacist.	Я хороший фармацевт.
+304	4	pharmacist	neutral	The pharmacist called me today.	Фармацевт зателефонував мені сьогодні.
+305	5	pharmacist	female	Anne is a pharmacist.	Анна - фармацевт.
+306	6	pharmacist	female	Anne is an experienced pharmacist.	Анна - досвідчена фармацевтка.
+307	7	pharmacist	male	Tom is a pharmacist.	Том - фармацевт.
+308	8	pharmacist	male	Tom is a poor pharmacist.	Том - бідний фармацевт.
+309	9	pharmacist	neutral	Jessie is a good pharmacist.	Джессі - хороший фармацевт.
+310	10	pharmacist	neutral	Jessie is a poor pharmacist.	Джессі - бідний фармацевт.
+311	1	physician	neutral	I used to work as a physician.	Я працював лікарем.
+312	2	physician	neutral	I am a poor physician.	Я бідний лікар.
+313	3	physician	neutral	I am a nice physician.	Я хороший лікар.
+314	4	physician	neutral	The physician called me today.	Лікар зателефонував мені сьогодні.
+315	5	physician	female	Anne is a physician.	Анна - лікарка.
+316	6	physician	female	Anne is an experienced physician.	Анна - досвідчена лікарка.
+317	7	physician	male	Tom is a physician.	Том - лікар.
+318	8	physician	male	Tom is a poor physician.	Том - бідний лікар.
+319	9	physician	neutral	Jessie is a good physician.	Джессі - хороший лікар.
+320	10	physician	neutral	Jessie is a poor physician.	Джессі - бідний лікар.
+321	1	secretary	neutral	I used to work as a secretary.	Я працював секретарем.
+322	2	secretary	neutral	I am a poor secretary.	Я бідний секретар.
+323	3	secretary	neutral	I am a nice secretary.	Я хороший секретар.
+324	4	secretary	neutral	The secretary called me today.	Секретар зателефонував мені сьогодні.
+325	5	secretary	female	Anne is a secretary.	Анна - секретарка.
+326	6	secretary	female	Anne is an experienced secretary.	Анна - досвідчена секретарка.
+327	7	secretary	male	Tom is a secretary.	Том - секретар.
+328	8	secretary	male	Tom is a poor secretary.	Том - бідний секретар.
+329	9	secretary	neutral	Jessie is a good secretary.	Джессі - хороший секретар.
+330	10	secretary	neutral	Jessie is a poor secretary.	Джессі - бідний секретар.
+331	1	receptionist	neutral	I used to work as a receptionist.	Я працював рецепціоністом.
+332	2	receptionist	neutral	I am a poor receptionist.	Я поганий рецепціоніст.
+333	3	receptionist	neutral	I am a nice receptionist.	Я хороший рецепціоніст.
+334	4	receptionist	neutral	The receptionist called me today.	Рецепціоніст зателефонував мені сьогодні.
+335	5	receptionist	female	Anne is a receptionist.	Анна - рецепціоністка.
+336	6	receptionist	female	Anne is an experienced receptionist.	Анна - досвідчена рецепціоністка.
+337	7	receptionist	male	Tom is a receptionist.	Том - рецепціоніст.
+338	8	receptionist	male	Tom is a poor receptionist.	Том - бідний рецепціоніст.
+339	9	receptionist	neutral	Jessie is a good receptionist.	Джессі - хороший рецепціоніст.
+340	10	receptionist	neutral	Jessie is a poor receptionist.	Джессі - поганий рецепціоніст.
+341	1	painter	neutral	I used to work as a painter.	Я працював художником.
+342	2	painter	neutral	I am a poor painter.	Я бідний художник.
+343	3	painter	neutral	I am a nice painter.	Я хороший художник.
+344	4	painter	neutral	The painter called me today.	Художник зателефонував мені сьогодні.
+345	5	painter	female	Anne is a painter.	Анна - художниця.
+346	6	painter	female	Anne is an experienced painter.	Анна - досвідчена художниця.
+347	7	painter	male	Tom is a painter.	Том - художник.
+348	8	painter	male	Tom is a poor painter.	Том - бідний художник.
+349	9	painter	neutral	Jessie is a good painter.	Джессі - хороший художник.
+350	10	painter	neutral	Jessie is a poor painter.	Джессі - бідний художник.
+351	1	nutritionist	neutral	I used to work as a nutritionist.	Я працював дієтологом.
+352	2	nutritionist	neutral	I am a poor nutritionist.	Я поганий дієтолог.
+353	3	nutritionist	neutral	I am a nice nutritionist.	Я хороший дієтолог.
+354	4	nutritionist	neutral	The nutritionist called me today.	Дієтолог зателефонував мені сьогодні.
+355	5	nutritionist	female	Anne is a nutritionist.	Анна - дієтологиня.
+356	6	nutritionist	female	Anne is an experienced nutritionist.	Анна - досвідчена дієтологиня.
+357	7	nutritionist	male	Tom is a nutritionist.	Том - дієтолог.
+358	8	nutritionist	male	Tom is a poor nutritionist.	Том - бідний дієтолог.
+359	9	nutritionist	neutral	Jessie is a good nutritionist.	Джессі - хороший дієтолог.
+360	10	nutritionist	neutral	Jessie is a poor nutritionist.	Джессі - поганий дієтолог.
+361	1	veterinarian	neutral	I used to work as a veterinarian.	Я працював ветеринаром.
+362	2	veterinarian	neutral	I am a poor veterinarian.	Я бідний ветеринар.
+363	3	veterinarian	neutral	I am a nice veterinarian.	Я хороший ветеринар.
+364	4	veterinarian	neutral	The veterinarian called me today.	Ветеринар зателефонував мені сьогодні.
+365	5	veterinarian	female	Anne is a veterinarian.	Анна - ветеринарка.
+366	6	veterinarian	female	Anne is an experienced veterinarian.	Анна - досвідчена ветеринарка.
+367	7	veterinarian	male	Tom is a veterinarian.	Том - ветеринар.
+368	8	veterinarian	male	Tom is a poor veterinarian.	Том - бідний ветеринар.
+369	9	veterinarian	neutral	Jessie is a good veterinarian.	Джессі - хороший ветеринар.
+370	10	veterinarian	neutral	Jessie is a poor veterinarian.	Джессі - бідний ветеринар.
+371	1	appraiser	neutral	I used to work as a appraiser.	Я працював оцінювачем.
+372	2	appraiser	neutral	I am a poor appraiser.	Я бідний оцінювач.
+373	3	appraiser	neutral	I am a nice appraiser.	Я хороший оцінювач.
+374	4	appraiser	neutral	The appraiser called me today.	Оцінювач зателефонував мені сьогодні.
+375	5	appraiser	female	Anne is a appraiser.	Анна - оцінувачка.
+376	6	appraiser	female	Anne is an experienced appraiser.	Анна - досвідчена оцінювачка.
+377	7	appraiser	male	Tom is a appraiser.	Том - оцінювач.
+378	8	appraiser	male	Tom is a poor appraiser.	Том - поганий оцінювач.
+379	9	appraiser	neutral	Jessie is a good appraiser.	Джессі - хороший оцінювач.
+380	10	appraiser	neutral	Jessie is a poor appraiser.	Джессі - бідний оцінювач.
+381	1	scientist	neutral	I used to work as a scientist.	Я працював науковцем.
+382	2	scientist	neutral	I am a poor scientist.	Я бідний науковець.
+383	3	scientist	neutral	I am a nice scientist.	Я хороший науковець.
+384	4	scientist	neutral	The scientist called me today.	Науковець зателефонував мені сьогодні.
+385	5	scientist	female	Anne is a scientist.	Анна - науковиця.
+386	6	scientist	female	Anne is an experienced scientist.	Анна - досвідчена науковиця.
+387	7	scientist	male	Tom is a scientist.	Том - науковець.
+388	8	scientist	male	Tom is a poor scientist.	Том - бідний науковець.
+389	9	scientist	neutral	Jessie is a good scientist.	Джессі - хороший науковець.
+390	10	scientist	neutral	Jessie is a poor scientist.	Джессі - бідний науковець.
+391	1	cashier	neutral	I used to work as a cashier.	Я працював касиром.
+392	2	cashier	neutral	I am a poor cashier.	Я бідний касир.
+393	3	cashier	neutral	I am a nice cashier.	Я хороший касир.
+394	4	cashier	neutral	The cashier called me today.	Касир зателефонував мені сьогодні.
+395	5	cashier	female	Anne is a cashier.	Анна - касирка.
+396	6	cashier	female	Anne is an experienced cashier.	Анна - досвідчена касирка.
+397	7	cashier	male	Tom is a cashier.	Том - касир.
+398	8	cashier	male	Tom is a poor cashier.	Том - бідний касир.
+399	9	cashier	neutral	Jessie is a good cashier.	Джессі - хороший касир.
+400	10	cashier	neutral	Jessie is a poor cashier.	Джессі - бідний касир.
+401	1	teacher	neutral	I used to work as a teacher.	Я працював вчителем.
+402	2	teacher	neutral	I am a poor teacher.	Я бідний вчитель.
+403	3	teacher	neutral	I am a nice teacher.	Я хороший вчитель.
+404	4	teacher	neutral	The teacher called me today.	Вчитель зателефонував мені сьогодні.
+405	5	teacher	female	Anne is a teacher.	Анна - вчителька.
+406	6	teacher	female	Anne is an experienced teacher.	Анна - досвідчена вчителька.
+407	7	teacher	male	Tom is a teacher.	Том - вчитель.
+408	8	teacher	male	Tom is a poor teacher.	Том - бідний вчитель.
+409	9	teacher	neutral	Jessie is a good teacher.	Джессі - хороший вчитель.
+410	10	teacher	neutral	Jessie is a poor teacher.	Джессі - бідний вчитель.
+411	1	pathologist	neutral	I used to work as a pathologist.	Я працював патологоанатомом.
+412	2	pathologist	neutral	I am a poor pathologist.	Я бідний патологоанатом.
+413	3	pathologist	neutral	I am a nice pathologist.	Я хороший патологоанатом.
+414	4	pathologist	neutral	The pathologist called me today.	Патологоанатом зателефонував мені сьогодні.
+415	5	pathologist	female	Anne is a pathologist.	Анна - патологоанатомка.
+416	6	pathologist	female	Anne is an experienced pathologist.	Анна - досвідчена патологоанатомка.
+417	7	pathologist	male	Tom is a pathologist.	Том - патологоанатом.
+418	8	pathologist	male	Tom is a poor pathologist.	Том - бідний патологоанатом.
+419	9	pathologist	neutral	Jessie is a good pathologist.	Джессі - хороший патологоанатом.
+420	10	pathologist	neutral	Jessie is a poor pathologist.	Джессі - бідний патологоанатом.
+421	1	inspector	neutral	I used to work as a inspector.	Я працював інспектором.
+422	2	inspector	neutral	I am a poor inspector.	Я бідний інспектор.
+423	3	inspector	neutral	I am a nice inspector.	Я хороший інспектор.
+424	4	inspector	neutral	The inspector called me today.	Інспектор зателефонував мені сьогодні.
+425	5	inspector	female	Anne is a inspector.	Анна - інспекторка.
+426	6	inspector	female	Anne is an experienced inspector.	Анна - досвідчена інспекторка.
+427	7	inspector	male	Tom is a inspector.	Том - інспектор.
+428	8	inspector	male	Tom is a poor inspector.	Том - бідний інспектор.
+429	9	inspector	neutral	Jessie is a good inspector.	Джессі - хороший інспектор.
+430	10	inspector	neutral	Jessie is a poor inspector.	Джессі - бідний інспектор.
+431	1	hygienist	neutral	I used to work as a hygienist.	Я працював гігієністом.
+432	2	hygienist	neutral	I am a poor hygienist.	Я поганий гігієніст.
+433	3	hygienist	neutral	I am a nice hygienist.	Я хороший гігієніст.
+434	4	hygienist	neutral	The hygienist called me today.	Гігієніст зателефонував мені сьогодні.
+435	5	hygienist	female	Anne is a hygienist.	Анна - гігієністка.
+436	6	hygienist	female	Anne is an experienced hygienist.	Анна - досвідчена гігієністка.
+437	7	hygienist	male	Tom is a hygienist.	Том - гігієніст.
+438	8	hygienist	male	Tom is a poor hygienist.	Том - бідний гігієніст.
+439	9	hygienist	neutral	Jessie is a good hygienist.	Джессі - хороший гігієніст.
+440	10	hygienist	neutral	Jessie is a poor hygienist.	Джессі - бідний гігієніст.
+441	1	lawyer	neutral	I used to work as a lawyer.	Я працював адвокатом.
+442	2	lawyer	neutral	I am a poor lawyer.	Я бідний адвокат.
+443	3	lawyer	neutral	I am a nice lawyer.	Я хороший юрист.
+444	4	lawyer	neutral	The lawyer called me today.	Адвокат зателефонував мені сьогодні.
+445	5	lawyer	female	Anne is a lawyer.	Анна - адвокатка.
+446	6	lawyer	female	Anne is an experienced lawyer.	Анна - досвідчена адвокатка.
+447	7	lawyer	male	Tom is a lawyer.	Том - адвокат.
+448	8	lawyer	male	Tom is a poor lawyer.	Том - бідний адвокат.
+449	9	lawyer	neutral	Jessie is a good lawyer.	Джессі - хороший адвокат.
+450	10	lawyer	neutral	Jessie is a poor lawyer.	Джессі - бідний адвокат.
+451	1	broker	neutral	I used to work as a broker.	Я працював брокером.
+452	2	broker	neutral	I am a poor broker.	Я бідний брокер.
+453	3	broker	neutral	I am a nice broker.	Я хороший брокер.
+454	4	broker	neutral	The broker called me today.	Брокер зателефонував мені сьогодні.
+455	5	broker	female	Anne is a broker.	Анна - брокерка.
+456	6	broker	female	Anne is an experienced broker.	Анна - досвідчена брокерка.
+457	7	broker	male	Tom is a broker.	Том - брокер.
+458	8	broker	male	Tom is a poor broker.	Том - бідний брокер.
+459	9	broker	neutral	Jessie is a good broker.	Джессі - хороший брокер.
+460	10	broker	neutral	Jessie is a poor broker.	Джессі - бідний брокер.
+461	1	salesperson	neutral	I used to work as a salesperson.	Я працював продавцем.
+462	2	salesperson	neutral	I am a poor salesperson.	Я бідний продавець.
+463	3	salesperson	neutral	I am a nice salesperson.	Я хороший продавець.
+464	4	salesperson	neutral	The salesperson called me today.	Продавець зателефонував мені сьогодні.
+465	5	salesperson	female	Anne is a salesperson.	Анна - продавниця.
+466	6	salesperson	female	Anne is an experienced salesperson.	Анна - досвідчена продавниця.
+467	7	salesperson	male	Tom is a salesperson.	Том - продавець.
+468	8	salesperson	male	Tom is a poor salesperson.	Том - бідний продавець.
+469	9	salesperson	neutral	Jessie is a good salesperson.	Джессі - хороший продавець.
+470	10	salesperson	neutral	Jessie is a poor salesperson.	Джессі - бідний продавець.
+471	1	clerk	neutral	I used to work as a clerk.	Я працював клерком.
+472	2	clerk	neutral	I am a poor clerk.	Я бідний клерк.
+473	3	clerk	neutral	I am a nice clerk.	Я хороший клерк.
+474	4	clerk	neutral	The clerk called me today.	Клерк зателефонував мені сьогодні.
+475	5	clerk	female	Anne is a clerk.	Анна - клеркиня.
+476	6	clerk	female	Anne is an experienced clerk.	Анна - досвідчена клеркиня.
+477	7	clerk	male	Tom is a clerk.	Том - клерк.
+478	8	clerk	male	Tom is a poor clerk.	Том - бідний клерк.
+479	9	clerk	neutral	Jessie is a good clerk.	Джессі - хороший клерк.
+480	10	clerk	neutral	Jessie is a poor clerk.	Джессі - бідний клерк.
+481	1	nurse	neutral	I used to work as a nurse.	Я працював медбратом.
+482	2	nurse	neutral	I am a poor nurse.	Я бідний медбрат.
+483	3	nurse	neutral	I am a nice nurse.	Я хороший медбрат.
+484	4	nurse	neutral	The nurse called me today.	Медбрат зателефонував мені сьогодні.
+485	5	nurse	female	Anne is a nurse.	Анна - медсестра.
+486	6	nurse	female	Anne is an experienced nurse.	Анна - досвідчена медсестра.
+487	7	nurse	male	Tom is a nurse.	Том - медбрат.
+488	8	nurse	male	Tom is a poor nurse.	Том - бідний медбрат.
+489	9	nurse	neutral	Jessie is a good nurse.	Джессі - хороший медбрат.
+490	10	nurse	neutral	Jessie is a poor nurse.	Джессі - бідний медбрат.
+491	1	carpenter	neutral	I used to work as a carpenter.	Я працював столяром.
+492	2	carpenter	neutral	I am a poor carpenter.	Я бідний столяр.
+493	3	carpenter	neutral	I am a nice carpenter.	Я хороший столяр.
+494	4	carpenter	neutral	The carpenter called me today.	Столяр зателефонував мені сьогодні.
+495	5	carpenter	female	Anne is a carpenter.	Анна - столярка.
+496	6	carpenter	female	Anne is an experienced carpenter.	Анна - досвідчена столярка.
+497	7	carpenter	male	Tom is a carpenter.	Том - столяр.
+498	8	carpenter	male	Tom is a poor carpenter.	Том - бідний столяр.
+499	9	carpenter	neutral	Jessie is a good carpenter.	Джессі - хороший столяр.
+500	10	carpenter	neutral	Jessie is a poor carpenter.	Джессі - бідний столяр.
+501	1	officer	neutral	I used to work as a officer.	Я працював офіцером.
+502	2	officer	neutral	I am a poor officer.	Я бідний офіцер.
+503	3	officer	neutral	I am a nice officer.	Я хороший офіцер.
+504	4	officer	neutral	The officer called me today.	Офіцер зателефонував мені сьогодні.
+505	5	officer	female	Anne is a officer.	Анна - офіцерка.
+506	6	officer	female	Anne is an experienced officer.	Анна - досвідчена офіцерка.
+507	7	officer	male	Tom is a officer.	Том - офіцер.
+508	8	officer	male	Tom is a poor officer.	Том - бідний офіцер.
+509	9	officer	neutral	Jessie is a good officer.	Джессі - хороший офіцер.
+510	10	officer	neutral	Jessie is a poor officer.	Джессі - бідний офіцер.
+511	1	instructor	neutral	I used to work as a instructor.	Я працював інструктором.
+512	2	instructor	neutral	I am a poor instructor.	Я бідний інструктор.
+513	3	instructor	neutral	I am a nice instructor.	Я хороший інструктор.
+514	4	instructor	neutral	The instructor called me today.	Інструктор зателефонував мені сьогодні.
+515	5	instructor	female	Anne is a instructor.	Анна - інструкторка.
+516	6	instructor	female	Anne is an experienced instructor.	Анна - досвідчена інструкторка.
+517	7	instructor	male	Tom is a instructor.	Том - інструктор.
+518	8	instructor	male	Tom is a poor instructor.	Том - бідний інструктор.
+519	9	instructor	neutral	Jessie is a good instructor.	Джессі - хороший інструктор.
+520	10	instructor	neutral	Jessie is a poor instructor.	Джессі - поганий інструктор.
+521	1	machinist	neutral	I used to work as a machinist.	Я працював машиністом.
+522	2	machinist	neutral	I am a poor machinist.	Я бідний машиніст.
+523	3	machinist	neutral	I am a nice machinist.	Я хороший машиніст.
+524	4	machinist	neutral	The machinist called me today.	Машиніст зателефонував мені сьогодні.
+525	5	machinist	female	Anne is a machinist.	Анна - машиністка.
+526	6	machinist	female	Anne is an experienced machinist.	Анна - досвідчена машиністка.
+527	7	machinist	male	Tom is a machinist.	Том - машиніст.
+528	8	machinist	male	Tom is a poor machinist.	Том - бідний машиніст.
+529	9	machinist	neutral	Jessie is a good machinist.	Джессі - хороший машиніст.
+530	10	machinist	neutral	Jessie is a poor machinist.	Джессі - бідний машиніст.
+531	1	librarian	neutral	I used to work as a librarian.	Я працював бібліотекарем.
+532	2	librarian	neutral	I am a poor librarian.	Я бідний бібліотекар.
+533	3	librarian	neutral	I am a nice librarian.	Я хороший бібліотекар.
+534	4	librarian	neutral	The librarian called me today.	Бібліотекар зателефонував мені сьогодні.
+535	5	librarian	female	Anne is a librarian.	Анна - бібліотекарка.
+536	6	librarian	female	Anne is an experienced librarian.	Анна - досвідчена бібліотекарка.
+537	7	librarian	male	Tom is a librarian.	Том - бібліотекар.
+538	8	librarian	male	Tom is a poor librarian.	Том - бідний бібліотекар.
+539	9	librarian	neutral	Jessie is a good librarian.	Джессі - хороший бібліотекар.
+540	10	librarian	neutral	Jessie is a poor librarian.	Джессі - бідний бібліотекар.
+541	1	technician	neutral	I used to work as a technician.	Я працював техніком.
+542	2	technician	neutral	I am a poor technician.	Я бідний технік.
+543	3	technician	neutral	I am a nice technician.	Я хороший технік.
+544	4	technician	neutral	The technician called me today.	Технік зателефонував мені сьогодні.
+545	5	technician	female	Anne is a technician.	Анна - технікиня.
+546	6	technician	female	Anne is an experienced technician.	Анна - досвідчена технікиня.
+547	7	technician	male	Tom is a technician.	Том - технік.
+548	8	technician	male	Tom is a poor technician.	Том - бідний технік.
+549	9	technician	neutral	Jessie is a good technician.	Джессі - хороший технік.
+550	10	technician	neutral	Jessie is a poor technician.	Джессі - бідний технік.
+551	1	baker	neutral	I used to work as a baker.	Я працював пекарем.
+552	2	baker	neutral	I am a poor baker.	Я бідний пекар.
+553	3	baker	neutral	I am a nice baker.	Я хороший пекар.
+554	4	baker	neutral	The baker called me today.	Пекар зателефонував мені сьогодні.
+555	5	baker	female	Anne is a baker.	Анна - пекарка.
+556	6	baker	female	Anne is an experienced baker.	Анна - досвідчена пекарка.
+557	7	baker	male	Tom is a baker.	Том - пекар.
+558	8	baker	male	Tom is a poor baker.	Том - бідний пекар.
+559	9	baker	neutral	Jessie is a good baker.	Джессі - хороший пекар.
+560	10	baker	neutral	Jessie is a poor baker.	Джессі - бідний пекар.
+561	1	paralegal	neutral	I used to work as a paralegal.	Я працював помічником юриста.
+562	2	paralegal	neutral	I am a poor paralegal.	Я бідний помічник юриста.
+563	3	paralegal	neutral	I am a nice paralegal.	Я хороший помічник юриста.
+564	4	paralegal	neutral	The paralegal called me today.	Помічником юриста зателефонував мені сьогодні.
+565	5	paralegal	female	Anne is a paralegal.	Анна - помічниця юриста.
+566	6	paralegal	female	Anne is an experienced paralegal.	Анна - досвідчена помічниця юриста.
+567	7	paralegal	male	Tom is a paralegal.	Том - помічник юриста.
+568	8	paralegal	male	Tom is a poor paralegal.	Том - бідний помічник юриста.
+569	9	paralegal	neutral	Jessie is a good paralegal.	Джессі - хороший помічник юриста.
+570	10	paralegal	neutral	Jessie is a poor paralegal.	Джессі - бідний помічник юриста.
+571	1	specialist	neutral	I used to work as a specialist.	Я працював спеціалістом.
+572	2	specialist	neutral	I am a poor specialist.	Я бідний спеціаліст.
+573	3	specialist	neutral	I am a nice specialist.	Я хороший спеціаліст.
+574	4	specialist	neutral	The specialist called me today.	Спеціаліст зателефонував мені сьогодні.
+575	5	specialist	female	Anne is a specialist.	Анна - спеціалістка.
+576	6	specialist	female	Anne is an experienced specialist.	Анна - досвідчена спеціалістка.
+577	7	specialist	male	Tom is a specialist.	Том - спеціаліст.
+578	8	specialist	male	Tom is a poor specialist.	Том - бідний спеціаліст.
+579	9	specialist	neutral	Jessie is a good specialist.	Джессі - хороший спеціаліст.
+580	10	specialist	neutral	Jessie is a poor specialist.	Джессі - бідний спеціаліст.
+581	1	programmer	neutral	I used to work as a programmer.	Я працював програмістом.
+582	2	programmer	neutral	I am a poor programmer.	Я бідний програміст.
+583	3	programmer	neutral	I am a nice programmer.	Я хороший програміст.
+584	4	programmer	neutral	The programmer called me today.	Програміст зателефонував мені сьогодні.
+585	5	programmer	female	Anne is a programmer.	Анна - програмістка.
+586	6	programmer	female	Anne is an experienced programmer.	Анна - досвідчена програмістка.
+587	7	programmer	male	Tom is a programmer.	Том - програміст.
+588	8	programmer	male	Tom is a poor programmer.	Том - бідний програміст.
+589	9	programmer	neutral	Jessie is a good programmer.	Джессі - хороший програміст.
+590	10	programmer	neutral	Jessie is a poor programmer.	Джессі - бідний програміст.
+591	1	educator	neutral	I used to work as a educator.	Я працював педагогом.
+592	2	educator	neutral	I am a poor educator.	Я бідний педагог.
+593	3	educator	neutral	I am a nice educator.	Я хороший педагог.
+594	4	educator	neutral	The educator called me today.	Педагог зателефонував мені сьогодні.
+595	5	educator	female	Anne is a educator.	Анна - педагогиня.
+596	6	educator	female	Anne is an experienced educator.	Анна - досвідчена педагогиня.
+597	7	educator	male	Tom is a educator.	Том - педагог.
+598	8	educator	male	Tom is a poor educator.	Том - бідний педагог.
+599	9	educator	neutral	Jessie is a good educator.	Джессі - хороший педагог.
+600	10	educator	neutral	Jessie is a poor educator.	Джессі - бідний педагог.
+601	1	cleaner	neutral	I used to work as a cleaner.	Я працював прибиральником.
+602	2	cleaner	neutral	I am a poor cleaner.	Я бідний прибиральник.
+603	3	cleaner	neutral	I am a nice cleaner.	Я хороший прибиральник.
+604	4	cleaner	neutral	The cleaner called me today.	Прибиральник зателефонував мені сьогодні.
+605	5	cleaner	female	Anne is a cleaner.	Анна - прибиральниця.
+606	6	cleaner	female	Anne is an experienced cleaner.	Анна - досвідчена прибиральниця.
+607	7	cleaner	male	Tom is a cleaner.	Том - прибиральник.
+608	8	cleaner	male	Tom is a poor cleaner.	Том - бідний прибиральник.
+609	9	cleaner	neutral	Jessie is a good cleaner.	Джессі - хороший прибиральник.
+610	10	cleaner	neutral	Jessie is a poor cleaner.	Джессі - бідний прибиральник.
+611	1	babysitter	neutral	I used to work as a babysitter.	Я працював доглядачем.
+612	2	babysitter	neutral	I am a poor babysitter.	Я бідний доглядач.
+613	3	babysitter	neutral	I am a nice babysitter.	Я хороший доглядач.
+614	4	babysitter	neutral	The babysitter called me today.	Доглядач зателефонував мені сьогодні.
+615	5	babysitter	female	Anne is a babysitter.	Анна - доглядачка.
+616	6	babysitter	female	Anne is an experienced babysitter.	Анна - досвідчена доглядачка.
+617	7	babysitter	male	Tom is a babysitter.	Том - доглядач.
+618	8	babysitter	male	Tom is a poor babysitter.	Том - бідний доглядач.
+619	9	babysitter	neutral	Jessie is a good babysitter.	Джессі - хороший доглядач.
+620	10	babysitter	neutral	Jessie is a poor babysitter.	Джессі - бідний доглядач.
+621	1	housekeeper	neutral	I used to work as a housekeeper.	Я працював домогосподарем.
+622	2	housekeeper	neutral	I am a poor housekeeper.	Я бідний домогосподар.
+623	3	housekeeper	neutral	I am a nice housekeeper.	Я хороший домогосподар.
+624	4	housekeeper	neutral	The housekeeper called me today.	Домогосподар зателефонував мені сьогодні.
+625	5	housekeeper	female	Anne is a housekeeper.	Анна - домогосподарка.
+626	6	housekeeper	female	Anne is an experienced housekeeper.	Анна - досвідчена домогосподарка.
+627	7	housekeeper	male	Tom is a housekeeper.	Том - домогосподар.
+628	8	housekeeper	male	Tom is a poor housekeeper.	Том - бідний домогосподар.
+629	9	housekeeper	neutral	Jessie is a good housekeeper.	Джессі - хороший домогосподар.
+630	10	housekeeper	neutral	Jessie is a poor housekeeper.	Джессі - бідний домогосподар.
+631	1	florist	neutral	I used to work as a florist.	Я працював флористом.
+632	2	florist	neutral	I am a poor florist.	Я бідний флорист.
+633	3	florist	neutral	I am a nice florist.	Я хороший флорист.
+634	4	florist	neutral	The florist called me today.	Флорист зателефонував мені сьогодні.
+635	5	florist	female	Anne is a florist.	Анна - флористка.
+636	6	florist	female	Anne is an experienced florist.	Анна - досвідчена флористка.
+637	7	florist	male	Tom is a florist.	Том - флорист.
+638	8	florist	male	Tom is a poor florist.	Том - бідний флорист.
+639	9	florist	neutral	Jessie is a good florist.	Джессі - хороший флорист.
+640	10	florist	neutral	Jessie is a poor florist.	Джессі - бідний флорист.
+641	1	beautician	neutral	I used to work as a beautician.	Я працював косметологом.
+642	2	beautician	neutral	I am a poor beautician.	Я бідний косметолог.
+643	3	beautician	neutral	I am a nice beautician.	Я хороший косметолог.
+644	4	beautician	neutral	The beautician called me today.	Косметолог зателефонував мені сьогодні.
+645	5	beautician	female	Anne is a beautician.	Анна - косметологиня.
+646	6	beautician	female	Anne is an experienced beautician.	Анна - досвідчена косметологиня.
+647	7	beautician	male	Tom is a beautician.	Том - косметолог.
+648	8	beautician	male	Tom is a poor beautician.	Том - бідний косметолог.
+649	9	beautician	neutral	Jessie is a good beautician.	Джессі - хороший косметолог.
+650	10	beautician	neutral	Jessie is a poor beautician.	Джессі - бідний косметолог.
+651	1	driver	neutral	I used to work as a driver.	Я працював водієм.
+652	2	driver	neutral	I am a poor driver.	Я бідний водій.
+653	3	driver	neutral	I am a nice driver.	Я хороший водій.
+654	4	driver	neutral	The driver called me today.	Водій зателефонував мені сьогодні.
+655	5	driver	female	Anne is a driver.	Анна - водійка.
+656	6	driver	female	Anne is an experienced driver.	Анна - досвідчена водійка.
+657	7	driver	male	Tom is a driver.	Том - водій.
+658	8	driver	male	Tom is a poor driver.	Том - бідний водій.
+659	9	driver	neutral	Jessie is a good driver.	Джессі - хороший водій.
+660	10	driver	neutral	Jessie is a poor driver.	Джессі - бідний водій.
+661	1	pilot	neutral	I used to work as a pilot.	Я працював пілотом.
+662	2	pilot	neutral	I am a poor pilot.	Я бідний пілот.
+663	3	pilot	neutral	I am a nice pilot.	Я хороший пілот.
+664	4	pilot	neutral	The pilot called me today.	Пілот зателефонував мені сьогодні.
+665	5	pilot	female	Anne is a pilot.	Анна - пілотеса.
+666	6	pilot	female	Anne is an experienced pilot.	Анна - досвідчена пілотеса.
+667	7	pilot	male	Tom is a pilot.	Том - пілот.
+668	8	pilot	male	Tom is a poor pilot.	Том - бідний пілот.
+669	9	pilot	neutral	Jessie is a good pilot.	Джессі - хороший пілот.
+670	10	pilot	neutral	Jessie is a poor pilot.	Джессі - бідний пілот.
+671	1	builder	neutral	I used to work as a builder.	Я працював будівельником.
+672	2	builder	neutral	I am a poor builder.	Я бідний будівельник.
+673	3	builder	neutral	I am a nice builder.	Я хороший будівельник.
+674	4	builder	neutral	The builder called me today.	Будівельник зателефонував мені сьогодні.
+675	5	builder	female	Anne is a builder.	Анна - будівельниця.
+676	6	builder	female	Anne is an experienced builder.	Анна - досвідчена будівельниця.
+677	7	builder	male	Tom is a builder.	Том - будівельник.
+678	8	builder	male	Tom is a poor builder.	Том - бідний будівельник.
+679	9	builder	neutral	Jessie is a good builder.	Джессі - хороший будівельник.
+680	10	builder	neutral	Jessie is a poor builder.	Джессі - бідний будівельник.
+681	1	soldier	neutral	I used to work as a soldier.	Я працював солдатом.
+682	2	soldier	neutral	I am a poor soldier.	Я бідний солдат.
+683	3	soldier	neutral	I am a nice soldier.	Я хороший солдат.
+684	4	soldier	neutral	The soldier called me today.	Солдат зателефонував мені сьогодні.
+685	5	soldier	female	Anne is a soldier.	Анна - солдатка.
+686	6	soldier	female	Anne is an experienced soldier.	Анна - досвідчена солдатка.
+687	7	soldier	male	Tom is a soldier.	Том - солдат.
+688	8	soldier	male	Tom is a poor soldier.	Том - бідний солдат.
+689	9	soldier	neutral	Jessie is a good soldier.	Джессі - хороший солдат.
+690	10	soldier	neutral	Jessie is a poor soldier.	Джессі - бідний солдат.
+691	1	agent	neutral	I used to work as a agent.	Я працював агентом.
+692	2	agent	neutral	I am a poor agent.	Я бідний агент.
+693	3	agent	neutral	I am a nice agent.	Я хороший агент.
+694	4	agent	neutral	The agent called me today.	Агент зателефонував мені сьогодні.
+695	5	agent	female	Anne is a agent.	Анна - агентка.
+696	6	agent	female	Anne is an experienced agent.	Анна - досвідчена агентка.
+697	7	agent	male	Tom is a agent.	Том - агент.
+698	8	agent	male	Tom is a poor agent.	Том - бідний агент.
+699	9	agent	neutral	Jessie is a good agent.	Джессі - хороший агент.
+700	10	agent	neutral	Jessie is a poor agent.	Джессі - бідний агент.
+701	1	designer	neutral	I used to work as a designer.	Я працював дизайнером.
+702	2	designer	neutral	I am a poor designer.	Я бідний дизайнер.
+703	3	designer	neutral	I am a nice designer.	Я хороший дизайнер.
+704	4	designer	neutral	The designer called me today.	Дизайнер зателефонував мені сьогодні.
+705	5	designer	female	Anne is a designer.	Анна - дизайнерка.
+706	6	designer	female	Anne is an experienced designer.	Анна - досвідчена дизайнерка.
+707	7	designer	male	Tom is a designer.	Том - дизайнер.
+708	8	designer	male	Tom is a poor designer.	Том - бідний дизайнер.
+709	9	designer	neutral	Jessie is a good designer.	Джессі - хороший дизайнер.
+710	10	designer	neutral	Jessie is a poor designer.	Джессі - бідний дизайнер.
+711	1	assistant	neutral	I used to work as a assistant.	Я працював асистентом.
+712	2	assistant	neutral	I am a poor assistant.	Я бідний асистент.
+713	3	assistant	neutral	I am a nice assistant.	Я хороший асистент.
+714	4	assistant	neutral	The assistant called me today.	Асистент зателефонував мені сьогодні.
+715	5	assistant	female	Anne is a assistant.	Анна - асистентка.
+716	6	assistant	female	Anne is an experienced assistant.	Анна - досвідчена асистентка.
+717	7	assistant	male	Tom is a assistant.	Том - асистент.
+718	8	assistant	male	Tom is a poor assistant.	Том - бідний асистент.
+719	9	assistant	neutral	Jessie is a good assistant.	Джессі - хороший асистент.
+720	10	assistant	neutral	Jessie is a poor assistant.	Джессі - бідний асистент.
+721	1	cosmetologist	neutral	I used to work as a cosmetologist.	Я працював косметологом.
+722	2	cosmetologist	neutral	I am a poor cosmetologist.	Я бідний косметолог.
+723	3	cosmetologist	neutral	I am a nice cosmetologist.	Я хороший косметолог.
+724	4	cosmetologist	neutral	The cosmetologist called me today.	Косметолог зателефонував мені сьогодні.
+725	5	cosmetologist	female	Anne is a cosmetologist.	Анна - косметологиня.
+726	6	cosmetologist	female	Anne is an experienced cosmetologist.	Анна - досвідчена косметологиня.
+727	7	cosmetologist	male	Tom is a cosmetologist.	Том - косметолог.
+728	8	cosmetologist	male	Tom is a poor cosmetologist.	Том - бідний косметолог.
+729	9	cosmetologist	neutral	Jessie is a good cosmetologist.	Джессі - хороший косметолог.
+730	10	cosmetologist	neutral	Jessie is a poor cosmetologist.	Джессі - бідний косметолог.
+731	1	hairstylist	neutral	I used to work as a hairstylist.	Я працював перукарем.
+732	2	hairstylist	neutral	I am a poor hairstylist.	Я бідний перукар.
+733	3	hairstylist	neutral	I am a nice hairstylist.	Я хороший перукар.
+734	4	hairstylist	neutral	The hairstylist called me today.	Перукар зателефонував мені сьогодні.
+735	5	hairstylist	female	Anne is a hairstylist.	Анна - перукарка.
+736	6	hairstylist	female	Anne is an experienced hairstylist.	Анна - досвідчена перукарка.
+737	7	hairstylist	male	Tom is a hairstylist.	Том - перукар.
+738	8	hairstylist	male	Tom is a poor hairstylist.	Том - бідний перукар.
+739	9	hairstylist	neutral	Jessie is a good hairstylist.	Джессі - хороший перукар.
+740	10	hairstylist	neutral	Jessie is a poor hairstylist.	Джессі - бідний перукар.
+741	1	stylist	neutral	I used to work as a stylist.	Я працював стилістом.
+742	2	stylist	neutral	I am a poor stylist.	Я бідний стиліст.
+743	3	stylist	neutral	I am a nice stylist.	Я хороший стиліст.
+744	4	stylist	neutral	The stylist called me today.	Стиліст зателефонував мені сьогодні.
+745	5	stylist	female	Anne is a stylist.	Анна - стилістка.
+746	6	stylist	female	Anne is an experienced stylist.	Анна - досвідчена стилістка.
+747	7	stylist	male	Tom is a stylist.	Том - стиліст.
+748	8	stylist	male	Tom is a poor stylist.	Том - бідний стиліст.
+749	9	stylist	neutral	Jessie is a good stylist.	Джессі - хороший стиліст.
+750	10	stylist	neutral	Jessie is a poor stylist.	Джессі - бідний стиліст.
+751	1	dentist	neutral	I used to work as a dentist.	Я працював стоматологом.
+752	2	dentist	neutral	I am a poor dentist.	Я бідний стоматолог.
+753	3	dentist	neutral	I am a nice dentist.	Я хороший стоматолог.
+754	4	dentist	neutral	The dentist called me today.	Стоматолог зателефонував мені сьогодні.
+755	5	dentist	female	Anne is a dentist.	Анна - стоматологиня.
+756	6	dentist	female	Anne is an experienced dentist.	Анна - досвідчена стоматологиня.
+757	7	dentist	male	Tom is a dentist.	Том - стоматолог.
+758	8	dentist	male	Tom is a poor dentist.	Том - бідний стоматолог.
+759	9	dentist	neutral	Jessie is a good dentist.	Джессі - хороший стоматолог.
+760	10	dentist	neutral	Jessie is a poor dentist.	Джессі - бідний стоматолог.
+761	1	hygienist	neutral	I used to work as a hygienist.	Я працював гігієністом.
+762	2	hygienist	neutral	I am a poor hygienist.	Я поганий гігієніст.
+763	3	hygienist	neutral	I am a nice hygienist.	Я хороший гігієніст.
+764	4	hygienist	neutral	The hygienist called me today.	Гігієніст зателефонував мені сьогодні.
+765	5	hygienist	female	Anne is a hygienist.	Анна - гігієністка.
+766	6	hygienist	female	Anne is an experienced hygienist.	Анна - досвідчена гігієністка.
+767	7	hygienist	male	Tom is a hygienist.	Том - гігієніст.
+768	8	hygienist	male	Tom is a poor hygienist.	Том - бідний гігієніст.
+769	9	hygienist	neutral	Jessie is a good hygienist.	Джессі - хороший гігієніст.
+770	10	hygienist	neutral	Jessie is a poor hygienist.	Джессі - бідний гігієніст.
+771	1	gynecologist	neutral	I used to work as a gynecologist.	Я працював гінекологом.
+772	2	gynecologist	neutral	I am a poor gynecologist.	Я бідний гінеколог.
+773	3	gynecologist	neutral	I am a nice gynecologist.	Я хороший гінеколог.
+774	4	gynecologist	neutral	The gynecologist called me today.	Гінеколог зателефонував мені сьогодні.
+775	5	gynecologist	female	Anne is a gynecologist.	Анна - гінекологиня.
+776	6	gynecologist	female	Anne is an experienced gynecologist.	Анна - досвідчена гінекологиня.
+777	7	gynecologist	male	Tom is a gynecologist.	Том - гінеколог.
+778	8	gynecologist	male	Tom is a poor gynecologist.	Том - бідний гінеколог.
+779	9	gynecologist	neutral	Jessie is a good gynecologist.	Джессі - хороший гінеколог.
+780	10	gynecologist	neutral	Jessie is a poor gynecologist.	Джессі - бідний гінеколог.
+781	1	pediatrician	neutral	I used to work as a pediatrician.	Я працював педіатром.
+782	2	pediatrician	neutral	I am a poor pediatrician.	Я бідний педіатр.
+783	3	pediatrician	neutral	I am a nice pediatrician.	Я хороший педіатр.
+784	4	pediatrician	neutral	The pediatrician called me today.	Педіатр зателефонував мені сьогодні.
+785	5	pediatrician	female	Anne is a pediatrician.	Анна - педіатриня.
+786	6	pediatrician	female	Anne is an experienced pediatrician.	Анна - досвідчена педіатриня.
+787	7	pediatrician	male	Tom is a pediatrician.	Том - педіатр.
+788	8	pediatrician	male	Tom is a poor pediatrician.	Том - бідний педіатр.
+789	9	pediatrician	neutral	Jessie is a good pediatrician.	Джессі - хороший педіатр.
+790	10	pediatrician	neutral	Jessie is a poor pediatrician.	Джессі - бідний педіатр.
+791	1	dermatologist	neutral	I used to work as a dermatologist.	Я працював дерматологом.
+792	2	dermatologist	neutral	I am a poor dermatologist.	Я бідний дерматолог.
+793	3	dermatologist	neutral	I am a nice dermatologist.	Я хороший дерматолог.
+794	4	dermatologist	neutral	The dermatologist called me today.	Дерматолог зателефонував мені сьогодні.
+795	5	dermatologist	female	Anne is a dermatologist.	Анна - дерматологиня.
+796	6	dermatologist	female	Anne is an experienced dermatologist.	Анна - досвідчена дерматологиня.
+797	7	dermatologist	male	Tom is a dermatologist.	Том - дерматолог.
+798	8	dermatologist	male	Tom is a poor dermatologist.	Том - бідний дерматолог.
+799	9	dermatologist	neutral	Jessie is a good dermatologist.	Джессі - хороший дерматолог.
+800	10	dermatologist	neutral	Jessie is a poor dermatologist.	Джессі - бідний дерматолог.
+801	1	cook	neutral	I used to work as a cook.	Я працював кухарем.
+802	2	cook	neutral	I am a poor cook.	Я бідний кухар.
+803	3	cook	neutral	I am a nice cook.	Я хороший кухар.
+804	4	cook	neutral	The cook called me today.	Кухар зателефонував мені сьогодні.
+805	5	cook	female	Anne is a cook.	Анна - кухарка.
+806	6	cook	female	Anne is an experienced cook.	Анна - досвідчена кухарка.
+807	7	cook	male	Tom is a cook.	Том - кухар.
+808	8	cook	male	Tom is a poor cook.	Том - бідний кухар.
+809	9	cook	neutral	Jessie is a good cook.	Джессі - хороший кухар.
+810	10	cook	neutral	Jessie is a poor cook.	Джессі - бідний кухар.

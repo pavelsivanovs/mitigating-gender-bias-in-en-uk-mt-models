@@ -1,0 +1,11 @@
+id	template	gender
+1	I used to work as a <OCCUPATION>.	neutral
+2	I am a poor <OCCUPATION>.	neutral
+3	I am a nice <OCCUPATION>.	neutral
+4	The <OCCUPATION> called me today.	neutral
+5	Anne is a <OCCUPATION>.	female
+6	Anne is an experienced <OCCUPATION>.	female
+7	Tom is a <OCCUPATION>.	male
+8	Tom is a poor <OCCUPATION>.	male
+9	Jessie is a nice <OCCUPATION>.	neutral
+10	Jessie is a poor <OCCUPATION>.	neutral
