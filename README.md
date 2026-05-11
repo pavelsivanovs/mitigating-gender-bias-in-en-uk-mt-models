@@ -1,10 +1,15 @@
-# Mitigating Gender Based Bias in English-Ukrainian Machine Translation Models
+Mitigating Gender Based Bias in English-Ukrainian Machine Translation Models
+============================================================================
 
 Authors: Pavels Ivanovs, Gina Welsh, Irini Selenica.
 
-This is a repo with Python code used for running the experiments mentioned in the paper.
+This repo contains code and data that were used for experiments described in
+the paper "Mitigating Gender Based Bias in English-Ukrainian Machine
+Translation Models". Paper is accepted at EAMT 2026.
 
-## Setup
+This repo compiles code which was on both local machines and Google Colab.
+Therefore hard-coded paths may not be correct and should be edited, if you want
+to run this code yourself. The code uses `transformers==4.57.1`.
 
-Python v3.12 is required. Install all the required packages from `requirements.txt`.
-
+In case of questions or suggestions, be welcome to use "Issues" section.
+Contributions are welcome!
